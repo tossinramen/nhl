@@ -5,7 +5,9 @@ import pickle
 import re
 import sys
 import time
+from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import pandas as pd
 import requests
@@ -242,6 +244,9 @@ def scrape_games(client, games, limit):
         try:
             html = client.get(f"/game.php?season={season}&game={gid}")
             parsed = parse_game(html, season, gid)
+            status = parsed["games"]["status"].iloc[0]
+            if not status.startswith("Final"):
+                raise ValueError(f"game not final yet (status={status!r}); will retry next update")
         except Exception as e:  
             print(f"  [{i}/{len(todo)}] {season} {gid} FAILED: {e}")
             failed.append(f"{season},{gid},{e}")
@@ -304,6 +309,9 @@ def main():
         client = NSTClient(key)
         lists = fetch_lists(client)
         ref = lists["all"]
+        # only completed days, so an in-progress game never gets cached as partial data
+        today = datetime.now(ZoneInfo("America/New_York")).strftime("%Y-%m-%d")
+        ref = ref[ref["date"] < today]
         games = sorted({(s, g) for s, g in zip(ref["season"], ref["game_id"])})
         scrape_games(client, games, args.limit)
     combine()
