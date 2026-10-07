@@ -1,0 +1,1356 @@
+season,game_id,date,away_team,home_team,away_score,home_score,status
+20252026,20001,2025-10-07,Chicago Blackhawks,Florida Panthers,2,3,Final
+20252026,20002,2025-10-07,Pittsburgh Penguins,New York Rangers,3,0,Final
+20252026,20003,2025-10-07,Colorado Avalanche,Los Angeles Kings,4,1,Final
+20252026,20004,2025-10-08,Montreal Canadiens,Toronto Maple Leafs,2,5,Final
+20252026,20005,2025-10-08,Boston Bruins,Washington Capitals,3,1,Final
+20252026,20006,2025-10-08,Calgary Flames,Edmonton Oilers,4,3,Final SO
+20252026,20007,2025-10-08,Los Angeles Kings,Vegas Golden Knights,6,5,Final SO
+20252026,20008,2025-10-09,Chicago Blackhawks,Boston Bruins,3,4,Final OT
+20252026,20009,2025-10-09,New York Rangers,Buffalo Sabres,4,0,Final
+20252026,20010,2025-10-09,Montreal Canadiens,Detroit Red Wings,5,1,Final
+20252026,20011,2025-10-09,Ottawa Senators,Tampa Bay Lightning,5,4,Final
+20252026,20012,2025-10-09,Philadelphia Flyers,Florida Panthers,1,2,Final
+20252026,20013,2025-10-09,New York Islanders,Pittsburgh Penguins,3,4,Final
+20252026,20014,2025-10-09,New Jersey Devils,Carolina Hurricanes,3,6,Final
+20252026,20015,2025-10-09,Minnesota Wild,St Louis Blues,5,0,Final
+20252026,20016,2025-10-09,Columbus Blue Jackets,Nashville Predators,1,2,Final
+20252026,20017,2025-10-09,Dallas Stars,Winnipeg Jets,5,4,Final
+20252026,20018,2025-10-09,Utah Mammoth,Colorado Avalanche,1,2,Final
+20252026,20019,2025-10-09,Calgary Flames,Vancouver Canucks,1,5,Final
+20252026,20020,2025-10-09,Vegas Golden Knights,San Jose Sharks,4,3,Final OT
+20252026,20021,2025-10-09,Anaheim Ducks,Seattle Kraken,1,3,Final
+20252026,20022,2025-10-11,Los Angeles Kings,Winnipeg Jets,2,3,Final
+20252026,20023,2025-10-11,St Louis Blues,Calgary Flames,4,2,Final
+20252026,20024,2025-10-11,Buffalo Sabres,Boston Bruins,1,3,Final
+20252026,20025,2025-10-11,Toronto Maple Leafs,Detroit Red Wings,3,6,Final
+20252026,20026,2025-10-11,New Jersey Devils,Tampa Bay Lightning,5,3,Final
+20252026,20027,2025-10-11,Ottawa Senators,Florida Panthers,2,6,Final
+20252026,20028,2025-10-11,Washington Capitals,New York Islanders,4,2,Final
+20252026,20029,2025-10-11,New York Rangers,Pittsburgh Penguins,6,1,Final
+20252026,20030,2025-10-11,Philadelphia Flyers,Carolina Hurricanes,3,4,Final OT
+20252026,20031,2025-10-11,Montreal Canadiens,Chicago Blackhawks,3,2,Final
+20252026,20032,2025-10-11,Utah Mammoth,Nashville Predators,3,2,Final OT
+20252026,20033,2025-10-11,Columbus Blue Jackets,Minnesota Wild,7,4,Final
+20252026,20034,2025-10-11,Dallas Stars,Colorado Avalanche,5,4,Final SO
+20252026,20035,2025-10-11,Vancouver Canucks,Edmonton Oilers,1,3,Final
+20252026,20036,2025-10-11,Anaheim Ducks,San Jose Sharks,7,6,Final OT
+20252026,20037,2025-10-11,Vegas Golden Knights,Seattle Kraken,1,2,Final OT
+20252026,20038,2025-10-12,Washington Capitals,New York Rangers,1,0,Final
+20252026,20039,2025-10-13,Colorado Avalanche,Buffalo Sabres,3,1,Final
+20252026,20040,2025-10-13,Tampa Bay Lightning,Boston Bruins,4,3,Final
+20252026,20041,2025-10-13,Nashville Predators,Ottawa Senators,4,1,Final
+20252026,20042,2025-10-13,Winnipeg Jets,New York Islanders,5,2,Final
+20252026,20043,2025-10-13,Detroit Red Wings,Toronto Maple Leafs,3,2,Final
+20252026,20044,2025-10-13,Florida Panthers,Philadelphia Flyers,2,5,Final
+20252026,20045,2025-10-13,New Jersey Devils,Columbus Blue Jackets,3,2,Final
+20252026,20046,2025-10-13,St Louis Blues,Vancouver Canucks,5,2,Final
+20252026,20047,2025-10-13,Los Angeles Kings,Minnesota Wild,3,4,Final SO
+20252026,20048,2025-10-13,Utah Mammoth,Chicago Blackhawks,1,3,Final
+20252026,20049,2025-10-14,Nashville Predators,Toronto Maple Leafs,4,7,Final
+20252026,20050,2025-10-14,Seattle Kraken,Montreal Canadiens,4,5,Final OT
+20252026,20051,2025-10-14,Edmonton Oilers,New York Rangers,2,0,Final
+20252026,20052,2025-10-14,Tampa Bay Lightning,Washington Capitals,2,3,Final OT
+20252026,20053,2025-10-14,Vegas Golden Knights,Calgary Flames,4,2,Final
+20252026,20054,2025-10-14,Minnesota Wild,Dallas Stars,2,5,Final
+20252026,20055,2025-10-14,Carolina Hurricanes,San Jose Sharks,5,1,Final
+20252026,20056,2025-10-14,Pittsburgh Penguins,Anaheim Ducks,3,4,Final
+20252026,20057,2025-10-15,Ottawa Senators,Buffalo Sabres,4,8,Final
+20252026,20058,2025-10-15,Florida Panthers,Detroit Red Wings,1,4,Final
+20252026,20059,2025-10-15,Chicago Blackhawks,St Louis Blues,8,3,Final
+20252026,20060,2025-10-15,Calgary Flames,Utah Mammoth,1,3,Final
+20252026,20061,2025-10-16,New York Rangers,Toronto Maple Leafs,1,2,Final OT
+20252026,20062,2025-10-16,Nashville Predators,Montreal Canadiens,2,3,Final OT
+20252026,20063,2025-10-16,Seattle Kraken,Ottawa Senators,3,4,Final SO
+20252026,20064,2025-10-16,Florida Panthers,New Jersey Devils,1,3,Final
+20252026,20065,2025-10-16,Edmonton Oilers,New York Islanders,2,4,Final
+20252026,20066,2025-10-16,Winnipeg Jets,Philadelphia Flyers,5,2,Final
+20252026,20067,2025-10-16,Colorado Avalanche,Columbus Blue Jackets,4,1,Final
+20252026,20068,2025-10-16,Vancouver Canucks,Dallas Stars,5,3,Final
+20252026,20069,2025-10-16,Boston Bruins,Vegas Golden Knights,5,6,Final
+20252026,20070,2025-10-16,Carolina Hurricanes,Anaheim Ducks,4,1,Final
+20252026,20071,2025-10-16,Pittsburgh Penguins,Los Angeles Kings,4,2,Final
+20252026,20072,2025-10-17,Tampa Bay Lightning,Detroit Red Wings,1,2,Final OT
+20252026,20073,2025-10-17,Minnesota Wild,Washington Capitals,1,5,Final
+20252026,20074,2025-10-17,Vancouver Canucks,Chicago Blackhawks,3,2,Final SO
+20252026,20075,2025-10-17,San Jose Sharks,Utah Mammoth,3,6,Final
+20252026,20076,2025-10-18,Florida Panthers,Buffalo Sabres,0,3,Final
+20252026,20077,2025-10-18,New York Islanders,Ottawa Senators,5,4,Final
+20252026,20078,2025-10-18,Edmonton Oilers,New Jersey Devils,3,5,Final
+20252026,20079,2025-10-18,Seattle Kraken,Toronto Maple Leafs,4,3,Final OT
+20252026,20080,2025-10-18,New York Rangers,Montreal Canadiens,4,3,Final
+20252026,20081,2025-10-18,Minnesota Wild,Philadelphia Flyers,1,2,Final OT
+20252026,20082,2025-10-18,Tampa Bay Lightning,Columbus Blue Jackets,2,3,Final
+20252026,20083,2025-10-18,Dallas Stars,St Louis Blues,1,3,Final
+20252026,20084,2025-10-18,Nashville Predators,Winnipeg Jets,1,4,Final
+20252026,20085,2025-10-18,Boston Bruins,Colorado Avalanche,1,4,Final
+20252026,20086,2025-10-18,Carolina Hurricanes,Los Angeles Kings,4,3,Final OT
+20252026,20087,2025-10-18,Calgary Flames,Vegas Golden Knights,1,6,Final
+20252026,20088,2025-10-18,Pittsburgh Penguins,San Jose Sharks,3,0,Final
+20252026,20089,2025-10-19,Vancouver Canucks,Washington Capitals,4,3,Final
+20252026,20090,2025-10-19,Edmonton Oilers,Detroit Red Wings,2,4,Final
+20252026,20091,2025-10-19,Anaheim Ducks,Chicago Blackhawks,1,2,Final OT
+20252026,20092,2025-10-19,Boston Bruins,Utah Mammoth,2,3,Final
+20252026,20093,2025-10-20,Minnesota Wild,New York Rangers,3,1,Final
+20252026,20094,2025-10-20,Seattle Kraken,Philadelphia Flyers,2,5,Final
+20252026,20095,2025-10-20,Buffalo Sabres,Montreal Canadiens,2,4,Final
+20252026,20096,2025-10-20,Winnipeg Jets,Calgary Flames,2,1,Final
+20252026,20097,2025-10-20,Carolina Hurricanes,Vegas Golden Knights,1,4,Final
+20252026,20098,2025-10-21,New Jersey Devils,Toronto Maple Leafs,5,2,Final
+20252026,20099,2025-10-21,Edmonton Oilers,Ottawa Senators,3,2,Final OT
+20252026,20100,2025-10-21,San Jose Sharks,New York Islanders,3,4,Final
+20252026,20101,2025-10-21,Vancouver Canucks,Pittsburgh Penguins,1,5,Final
+20252026,20102,2025-10-21,Seattle Kraken,Washington Capitals,1,4,Final
+20252026,20103,2025-10-21,Florida Panthers,Boston Bruins,4,3,Final
+20252026,20104,2025-10-21,Los Angeles Kings,St Louis Blues,2,1,Final OT
+20252026,20105,2025-10-21,Anaheim Ducks,Nashville Predators,5,2,Final
+20252026,20106,2025-10-21,Columbus Blue Jackets,Dallas Stars,5,1,Final
+20252026,20107,2025-10-21,Colorado Avalanche,Utah Mammoth,3,4,Final OT
+20252026,20108,2025-10-22,Minnesota Wild,New Jersey Devils,1,4,Final
+20252026,20109,2025-10-22,Detroit Red Wings,Buffalo Sabres,2,4,Final
+20252026,20110,2025-10-22,Montreal Canadiens,Calgary Flames,2,1,Final OT
+20252026,20111,2025-10-23,Anaheim Ducks,Boston Bruins,7,5,Final
+20252026,20112,2025-10-23,Philadelphia Flyers,Ottawa Senators,1,2,Final
+20252026,20113,2025-10-23,Chicago Blackhawks,Tampa Bay Lightning,3,2,Final
+20252026,20114,2025-10-23,Pittsburgh Penguins,Florida Panthers,5,3,Final
+20252026,20115,2025-10-23,Detroit Red Wings,New York Islanders,2,7,Final
+20252026,20116,2025-10-23,San Jose Sharks,New York Rangers,6,5,Final OT
+20252026,20117,2025-10-23,Utah Mammoth,St Louis Blues,7,4,Final
+20252026,20118,2025-10-23,Vancouver Canucks,Nashville Predators,1,2,Final
+20252026,20119,2025-10-23,Los Angeles Kings,Dallas Stars,3,2,Final OT
+20252026,20120,2025-10-23,Seattle Kraken,Winnipeg Jets,3,0,Final
+20252026,20121,2025-10-23,Carolina Hurricanes,Colorado Avalanche,5,4,Final SO
+20252026,20122,2025-10-23,Montreal Canadiens,Edmonton Oilers,5,6,Final
+20252026,20123,2025-10-24,Toronto Maple Leafs,Buffalo Sabres,3,5,Final
+20252026,20124,2025-10-24,San Jose Sharks,New Jersey Devils,1,3,Final
+20252026,20125,2025-10-24,Washington Capitals,Columbus Blue Jackets,5,1,Final
+20252026,20126,2025-10-24,Calgary Flames,Winnipeg Jets,3,5,Final
+20252026,20127,2025-10-25,New York Islanders,Philadelphia Flyers,3,4,Final SO
+20252026,20128,2025-10-25,Colorado Avalanche,Boston Bruins,2,3,Final
+20252026,20129,2025-10-25,Anaheim Ducks,Tampa Bay Lightning,3,4,Final
+20252026,20130,2025-10-25,Vegas Golden Knights,Florida Panthers,0,3,Final
+20252026,20131,2025-10-25,Utah Mammoth,Minnesota Wild,6,2,Final
+20252026,20132,2025-10-25,Buffalo Sabres,Toronto Maple Leafs,3,4,Final OT
+20252026,20133,2025-10-25,St Louis Blues,Detroit Red Wings,4,6,Final
+20252026,20134,2025-10-25,Columbus Blue Jackets,Pittsburgh Penguins,5,4,Final SO
+20252026,20135,2025-10-25,Ottawa Senators,Washington Capitals,7,1,Final
+20252026,20136,2025-10-25,Montreal Canadiens,Vancouver Canucks,4,3,Final
+20252026,20137,2025-10-25,Los Angeles Kings,Nashville Predators,4,5,Final SO
+20252026,20138,2025-10-25,Carolina Hurricanes,Dallas Stars,2,3,Final
+20252026,20139,2025-10-25,Edmonton Oilers,Seattle Kraken,2,3,Final
+20252026,20140,2025-10-26,Colorado Avalanche,New Jersey Devils,3,4,Final OT
+20252026,20141,2025-10-26,Vegas Golden Knights,Tampa Bay Lightning,1,2,Final OT
+20252026,20142,2025-10-26,San Jose Sharks,Minnesota Wild,6,5,Final OT
+20252026,20143,2025-10-26,Utah Mammoth,Winnipeg Jets,3,2,Final
+20252026,20144,2025-10-26,Los Angeles Kings,Chicago Blackhawks,3,1,Final
+20252026,20145,2025-10-26,Dallas Stars,Nashville Predators,3,2,Final
+20252026,20146,2025-10-26,New York Rangers,Calgary Flames,1,5,Final
+20252026,20147,2025-10-26,Edmonton Oilers,Vancouver Canucks,3,4,Final OT
+20252026,20148,2025-10-27,St Louis Blues,Pittsburgh Penguins,3,6,Final
+20252026,20149,2025-10-27,Boston Bruins,Ottawa Senators,2,7,Final
+20252026,20150,2025-10-28,Pittsburgh Penguins,Philadelphia Flyers,2,3,Final SO
+20252026,20151,2025-10-28,Calgary Flames,Toronto Maple Leafs,3,4,Final
+20252026,20152,2025-10-28,Columbus Blue Jackets,Buffalo Sabres,4,3,Final OT
+20252026,20153,2025-10-28,Anaheim Ducks,Florida Panthers,3,2,Final SO
+20252026,20154,2025-10-28,New York Islanders,Boston Bruins,2,5,Final
+20252026,20155,2025-10-28,Vegas Golden Knights,Carolina Hurricanes,6,3,Final
+20252026,20156,2025-10-28,Tampa Bay Lightning,Nashville Predators,5,2,Final
+20252026,20157,2025-10-28,Winnipeg Jets,Minnesota Wild,4,3,Final OT
+20252026,20158,2025-10-28,Detroit Red Wings,St Louis Blues,5,2,Final
+20252026,20159,2025-10-28,Washington Capitals,Dallas Stars,0,1,Final
+20252026,20160,2025-10-28,Ottawa Senators,Chicago Blackhawks,3,7,Final
+20252026,20161,2025-10-28,New Jersey Devils,Colorado Avalanche,4,8,Final
+20252026,20162,2025-10-28,Utah Mammoth,Edmonton Oilers,3,6,Final
+20252026,20163,2025-10-28,New York Rangers,Vancouver Canucks,2,0,Final
+20252026,20164,2025-10-28,Montreal Canadiens,Seattle Kraken,4,3,Final OT
+20252026,20165,2025-10-28,Los Angeles Kings,San Jose Sharks,4,3,Final
+20252026,20166,2025-10-29,Toronto Maple Leafs,Columbus Blue Jackets,3,6,Final
+20252026,20167,2025-10-30,Buffalo Sabres,Boston Bruins,3,4,Final OT
+20252026,20168,2025-10-30,Calgary Flames,Ottawa Senators,3,4,Final SO
+20252026,20169,2025-10-30,Dallas Stars,Tampa Bay Lightning,1,2,Final OT
+20252026,20170,2025-10-30,Nashville Predators,Philadelphia Flyers,1,4,Final
+20252026,20171,2025-10-30,New York Islanders,Carolina Hurricanes,2,6,Final
+20252026,20172,2025-10-30,Vancouver Canucks,St Louis Blues,4,3,Final SO
+20252026,20173,2025-10-30,Pittsburgh Penguins,Minnesota Wild,4,1,Final
+20252026,20174,2025-10-30,Chicago Blackhawks,Winnipeg Jets,3,6,Final
+20252026,20175,2025-10-30,New York Rangers,Edmonton Oilers,4,3,Final OT
+20252026,20176,2025-10-30,New Jersey Devils,San Jose Sharks,2,5,Final
+20252026,20177,2025-10-30,Detroit Red Wings,Los Angeles Kings,4,3,Final SO
+20252026,20178,2025-10-31,Colorado Avalanche,Vegas Golden Knights,4,2,Final
+20252026,20179,2025-10-31,New York Islanders,Washington Capitals,3,1,Final
+20252026,20180,2025-10-31,Detroit Red Wings,Anaheim Ducks,2,5,Final
+20252026,20181,2025-11-01,Carolina Hurricanes,Boston Bruins,1,2,Final
+20252026,20182,2025-11-01,Pittsburgh Penguins,Winnipeg Jets,2,5,Final
+20252026,20183,2025-11-01,Calgary Flames,Nashville Predators,2,4,Final
+20252026,20184,2025-11-01,Colorado Avalanche,San Jose Sharks,2,3,Final OT
+20252026,20185,2025-11-01,Dallas Stars,Florida Panthers,3,4,Final SO
+20252026,20186,2025-11-01,Washington Capitals,Buffalo Sabres,3,4,Final SO
+20252026,20187,2025-11-01,Ottawa Senators,Montreal Canadiens,3,4,Final OT
+20252026,20188,2025-11-01,Toronto Maple Leafs,Philadelphia Flyers,5,2,Final
+20252026,20189,2025-11-01,St Louis Blues,Columbus Blue Jackets,2,3,Final
+20252026,20190,2025-11-01,Vancouver Canucks,Minnesota Wild,2,5,Final
+20252026,20191,2025-11-01,New Jersey Devils,Los Angeles Kings,4,1,Final
+20252026,20192,2025-11-01,Chicago Blackhawks,Edmonton Oilers,2,3,Final OT
+20252026,20193,2025-11-01,New York Rangers,Seattle Kraken,3,2,Final OT
+20252026,20194,2025-11-02,Tampa Bay Lightning,Utah Mammoth,4,2,Final
+20252026,20195,2025-11-02,Columbus Blue Jackets,New York Islanders,2,3,Final
+20252026,20196,2025-11-02,Calgary Flames,Philadelphia Flyers,2,1,Final
+20252026,20197,2025-11-02,New Jersey Devils,Anaheim Ducks,1,4,Final
+20252026,20198,2025-11-02,Detroit Red Wings,San Jose Sharks,3,2,Final SO
+20252026,20199,2025-11-03,Pittsburgh Penguins,Toronto Maple Leafs,3,4,Final
+20252026,20200,2025-11-03,Edmonton Oilers,St Louis Blues,2,3,Final
+20252026,20201,2025-11-03,Vancouver Canucks,Nashville Predators,5,4,Final OT
+20252026,20202,2025-11-03,Chicago Blackhawks,Seattle Kraken,1,3,Final
+20252026,20203,2025-11-04,Utah Mammoth,Buffalo Sabres,2,1,Final OT
+20252026,20204,2025-11-04,Philadelphia Flyers,Montreal Canadiens,5,4,Final SO
+20252026,20205,2025-11-04,Boston Bruins,New York Islanders,4,3,Final SO
+20252026,20206,2025-11-04,Carolina Hurricanes,New York Rangers,3,0,Final
+20252026,20207,2025-11-04,Edmonton Oilers,Dallas Stars,3,4,Final SO
+20252026,20208,2025-11-04,Nashville Predators,Minnesota Wild,2,3,Final OT
+20252026,20209,2025-11-04,Tampa Bay Lightning,Colorado Avalanche,2,3,Final
+20252026,20210,2025-11-04,Detroit Red Wings,Vegas Golden Knights,0,1,Final
+20252026,20211,2025-11-04,Florida Panthers,Anaheim Ducks,3,7,Final
+20252026,20212,2025-11-04,Winnipeg Jets,Los Angeles Kings,0,3,Final
+20252026,20213,2025-11-05,Utah Mammoth,Toronto Maple Leafs,3,5,Final
+20252026,20214,2025-11-05,St Louis Blues,Washington Capitals,1,6,Final
+20252026,20215,2025-11-05,Columbus Blue Jackets,Calgary Flames,1,5,Final
+20252026,20216,2025-11-05,Chicago Blackhawks,Vancouver Canucks,5,2,Final
+20252026,20217,2025-11-05,San Jose Sharks,Seattle Kraken,6,1,Final
+20252026,20218,2025-11-06,Ottawa Senators,Boston Bruins,2,3,Final OT
+20252026,20219,2025-11-06,St Louis Blues,Buffalo Sabres,3,0,Final
+20252026,20220,2025-11-06,Montreal Canadiens,New Jersey Devils,3,4,Final OT
+20252026,20221,2025-11-06,Washington Capitals,Pittsburgh Penguins,3,5,Final
+20252026,20222,2025-11-06,Minnesota Wild,Carolina Hurricanes,3,4,Final
+20252026,20223,2025-11-06,Philadelphia Flyers,Nashville Predators,3,1,Final
+20252026,20224,2025-11-06,Anaheim Ducks,Dallas Stars,7,5,Final
+20252026,20225,2025-11-06,Tampa Bay Lightning,Vegas Golden Knights,6,3,Final
+20252026,20226,2025-11-06,Florida Panthers,Los Angeles Kings,5,2,Final
+20252026,20227,2025-11-07,New York Rangers,Detroit Red Wings,4,1,Final
+20252026,20228,2025-11-07,Minnesota Wild,New York Islanders,5,2,Final
+20252026,20229,2025-11-07,Chicago Blackhawks,Calgary Flames,4,0,Final
+20252026,20230,2025-11-07,Winnipeg Jets,San Jose Sharks,1,2,Final
+20252026,20231,2025-11-08,Pittsburgh Penguins,New Jersey Devils,1,2,Final SO
+20252026,20232,2025-11-08,Ottawa Senators,Philadelphia Flyers,3,2,Final OT
+20252026,20233,2025-11-08,Dallas Stars,Nashville Predators,5,4,Final
+20252026,20234,2025-11-08,Boston Bruins,Toronto Maple Leafs,5,3,Final
+20252026,20235,2025-11-08,Utah Mammoth,Montreal Canadiens,2,6,Final
+20252026,20236,2025-11-08,Washington Capitals,Tampa Bay Lightning,2,3,Final
+20252026,20237,2025-11-08,New York Islanders,New York Rangers,5,0,Final
+20252026,20238,2025-11-08,Buffalo Sabres,Carolina Hurricanes,3,6,Final
+20252026,20239,2025-11-08,Seattle Kraken,St Louis Blues,4,3,Final OT
+20252026,20240,2025-11-08,Colorado Avalanche,Edmonton Oilers,9,1,Final
+20252026,20241,2025-11-08,Columbus Blue Jackets,Vancouver Canucks,3,4,Final
+20252026,20242,2025-11-08,Anaheim Ducks,Vegas Golden Knights,4,3,Final OT
+20252026,20243,2025-11-08,Florida Panthers,San Jose Sharks,1,3,Final
+20252026,20244,2025-11-09,Chicago Blackhawks,Detroit Red Wings,5,1,Final
+20252026,20245,2025-11-09,Los Angeles Kings,Pittsburgh Penguins,3,2,Final
+20252026,20246,2025-11-09,Carolina Hurricanes,Toronto Maple Leafs,5,4,Final
+20252026,20247,2025-11-09,Utah Mammoth,Ottawa Senators,2,4,Final
+20252026,20248,2025-11-09,Seattle Kraken,Dallas Stars,1,2,Final
+20252026,20249,2025-11-09,Calgary Flames,Minnesota Wild,0,2,Final
+20252026,20250,2025-11-09,Colorado Avalanche,Vancouver Canucks,5,4,Final OT
+20252026,20251,2025-11-09,Winnipeg Jets,Anaheim Ducks,1,4,Final
+20252026,20252,2025-11-10,New York Islanders,New Jersey Devils,3,2,Final OT
+20252026,20253,2025-11-10,Nashville Predators,New York Rangers,3,6,Final
+20252026,20254,2025-11-10,Columbus Blue Jackets,Edmonton Oilers,4,5,Final OT
+20252026,20255,2025-11-10,Florida Panthers,Vegas Golden Knights,3,2,Final
+20252026,20256,2025-11-11,Toronto Maple Leafs,Boston Bruins,3,5,Final
+20252026,20257,2025-11-11,Los Angeles Kings,Montreal Canadiens,5,1,Final
+20252026,20258,2025-11-11,Dallas Stars,Ottawa Senators,3,2,Final OT
+20252026,20259,2025-11-11,Washington Capitals,Carolina Hurricanes,4,1,Final
+20252026,20260,2025-11-11,Calgary Flames,St Louis Blues,2,3,Final
+20252026,20261,2025-11-11,San Jose Sharks,Minnesota Wild,2,1,Final OT
+20252026,20262,2025-11-11,Anaheim Ducks,Colorado Avalanche,1,4,Final
+20252026,20263,2025-11-11,Winnipeg Jets,Vancouver Canucks,5,3,Final
+20252026,20264,2025-11-11,Columbus Blue Jackets,Seattle Kraken,2,1,Final SO
+20252026,20265,2025-11-12,New York Rangers,Tampa Bay Lightning,7,3,Final
+20252026,20266,2025-11-12,Edmonton Oilers,Philadelphia Flyers,2,1,Final OT
+20252026,20267,2025-11-12,Buffalo Sabres,Utah Mammoth,2,5,Final
+20252026,20268,2025-11-12,New Jersey Devils,Chicago Blackhawks,4,3,Final OT
+20252026,20269,2025-11-13,Los Angeles Kings,Toronto Maple Leafs,4,3,Final OT
+20252026,20270,2025-11-13,Dallas Stars,Montreal Canadiens,7,0,Final
+20252026,20271,2025-11-13,Boston Bruins,Ottawa Senators,3,5,Final
+20252026,20272,2025-11-13,Anaheim Ducks,Detroit Red Wings,3,6,Final
+20252026,20273,2025-11-13,Washington Capitals,Florida Panthers,3,6,Final
+20252026,20274,2025-11-13,Edmonton Oilers,Columbus Blue Jackets,4,5,Final
+20252026,20275,2025-11-13,Buffalo Sabres,Colorado Avalanche,3,6,Final
+20252026,20276,2025-11-13,San Jose Sharks,Calgary Flames,0,2,Final
+20252026,20277,2025-11-13,New York Islanders,Vegas Golden Knights,4,3,Final OT
+20252026,20278,2025-11-13,Winnipeg Jets,Seattle Kraken,3,5,Final
+20252026,20279,2025-11-14,Vancouver Canucks,Carolina Hurricanes,3,4,Final OT
+20252026,20280,2025-11-14,Philadelphia Flyers,St Louis Blues,6,5,Final SO
+20252026,20281,2025-11-14,Pittsburgh Penguins,Nashville Predators,1,2,Final OT
+20252026,20282,2025-11-14,New York Islanders,Utah Mammoth,3,2,Final OT
+20252026,20283,2025-11-15,Tampa Bay Lightning,Florida Panthers,3,1,Final
+20252026,20284,2025-11-15,Anaheim Ducks,Minnesota Wild,0,2,Final
+20252026,20285,2025-11-15,Boston Bruins,Montreal Canadiens,3,2,Final
+20252026,20286,2025-11-15,Los Angeles Kings,Ottawa Senators,1,0,Final
+20252026,20287,2025-11-15,Buffalo Sabres,Detroit Red Wings,5,4,Final OT
+20252026,20288,2025-11-15,New Jersey Devils,Washington Capitals,3,2,Final SO
+20252026,20289,2025-11-15,Edmonton Oilers,Carolina Hurricanes,4,3,Final OT
+20252026,20290,2025-11-15,New York Rangers,Columbus Blue Jackets,2,1,Final SO
+20252026,20291,2025-11-15,Toronto Maple Leafs,Chicago Blackhawks,2,3,Final
+20252026,20292,2025-11-15,Vegas Golden Knights,St Louis Blues,4,1,Final
+20252026,20293,2025-11-15,Philadelphia Flyers,Dallas Stars,1,5,Final
+20252026,20294,2025-11-15,Winnipeg Jets,Calgary Flames,4,3,Final SO
+20252026,20295,2025-11-15,San Jose Sharks,Seattle Kraken,1,4,Final
+20252026,20296,2025-11-16,Nashville Predators,Pittsburgh Penguins,0,4,Final
+20252026,20297,2025-11-16,Vancouver Canucks,Tampa Bay Lightning,6,2,Final
+20252026,20298,2025-11-16,Vegas Golden Knights,Minnesota Wild,2,3,Final OT
+20252026,20299,2025-11-16,Detroit Red Wings,New York Rangers,2,1,Final
+20252026,20300,2025-11-16,New York Islanders,Colorado Avalanche,1,4,Final
+20252026,20301,2025-11-17,Carolina Hurricanes,Boston Bruins,3,1,Final
+20252026,20302,2025-11-17,Edmonton Oilers,Buffalo Sabres,1,5,Final
+20252026,20303,2025-11-17,Vancouver Canucks,Florida Panthers,5,8,Final
+20252026,20304,2025-11-17,Los Angeles Kings,Washington Capitals,1,2,Final
+20252026,20305,2025-11-17,Montreal Canadiens,Columbus Blue Jackets,3,4,Final SO
+20252026,20306,2025-11-17,Utah Mammoth,Anaheim Ducks,2,3,Final OT
+20252026,20307,2025-11-18,St Louis Blues,Toronto Maple Leafs,2,3,Final OT
+20252026,20308,2025-11-18,Seattle Kraken,Detroit Red Wings,2,4,Final
+20252026,20309,2025-11-18,New Jersey Devils,Tampa Bay Lightning,1,5,Final
+20252026,20310,2025-11-18,New York Islanders,Dallas Stars,3,2,Final
+20252026,20311,2025-11-18,Columbus Blue Jackets,Winnipeg Jets,2,5,Final
+20252026,20312,2025-11-18,Calgary Flames,Chicago Blackhawks,2,5,Final
+20252026,20313,2025-11-18,New York Rangers,Vegas Golden Knights,2,3,Final
+20252026,20314,2025-11-18,Utah Mammoth,San Jose Sharks,2,3,Final OT
+20252026,20315,2025-11-19,Edmonton Oilers,Washington Capitals,4,7,Final
+20252026,20316,2025-11-19,Calgary Flames,Buffalo Sabres,6,2,Final
+20252026,20317,2025-11-19,Carolina Hurricanes,Minnesota Wild,3,4,Final SO
+20252026,20318,2025-11-19,Boston Bruins,Anaheim Ducks,3,4,Final
+20252026,20319,2025-11-20,Columbus Blue Jackets,Toronto Maple Leafs,3,2,Final OT
+20252026,20320,2025-11-20,Washington Capitals,Montreal Canadiens,8,4,Final
+20252026,20321,2025-11-20,New York Islanders,Detroit Red Wings,5,0,Final
+20252026,20322,2025-11-20,Edmonton Oilers,Tampa Bay Lightning,1,2,Final OT
+20252026,20323,2025-11-20,New Jersey Devils,Florida Panthers,0,1,Final
+20252026,20324,2025-11-20,St Louis Blues,Philadelphia Flyers,2,3,Final OT
+20252026,20325,2025-11-20,Seattle Kraken,Chicago Blackhawks,3,2,Final
+20252026,20326,2025-11-20,New York Rangers,Colorado Avalanche,3,6,Final
+20252026,20327,2025-11-20,Vegas Golden Knights,Utah Mammoth,4,1,Final
+20252026,20328,2025-11-20,Dallas Stars,Vancouver Canucks,4,2,Final
+20252026,20329,2025-11-20,Ottawa Senators,Anaheim Ducks,3,2,Final
+20252026,20330,2025-11-20,Los Angeles Kings,San Jose Sharks,3,4,Final SO
+20252026,20331,2025-11-21,Chicago Blackhawks,Buffalo Sabres,3,9,Final
+20252026,20332,2025-11-21,Minnesota Wild,Pittsburgh Penguins,5,0,Final
+20252026,20333,2025-11-21,Carolina Hurricanes,Winnipeg Jets,4,3,Final
+20252026,20334,2025-11-21,Boston Bruins,Los Angeles Kings,2,1,Final OT
+20252026,20335,2025-11-22,Columbus Blue Jackets,Detroit Red Wings,3,4,Final OT
+20252026,20336,2025-11-22,St Louis Blues,New York Islanders,2,1,Final
+20252026,20337,2025-11-22,Toronto Maple Leafs,Montreal Canadiens,2,5,Final
+20252026,20338,2025-11-22,Edmonton Oilers,Florida Panthers,6,3,Final
+20252026,20339,2025-11-22,New Jersey Devils,Philadelphia Flyers,3,6,Final
+20252026,20340,2025-11-22,Seattle Kraken,Pittsburgh Penguins,3,2,Final OT
+20252026,20341,2025-11-22,Tampa Bay Lightning,Washington Capitals,5,3,Final
+20252026,20342,2025-11-22,Ottawa Senators,San Jose Sharks,3,2,Final
+20252026,20343,2025-11-22,Colorado Avalanche,Nashville Predators,3,0,Final
+20252026,20344,2025-11-22,New York Rangers,Utah Mammoth,2,3,Final
+20252026,20345,2025-11-22,Dallas Stars,Calgary Flames,2,3,Final SO
+20252026,20346,2025-11-22,Vegas Golden Knights,Anaheim Ducks,3,4,Final OT
+20252026,20347,2025-11-23,Carolina Hurricanes,Buffalo Sabres,1,4,Final
+20252026,20348,2025-11-23,Minnesota Wild,Winnipeg Jets,3,0,Final
+20252026,20349,2025-11-23,Seattle Kraken,New York Islanders,0,1,Final SO
+20252026,20350,2025-11-23,Colorado Avalanche,Chicago Blackhawks,1,0,Final
+20252026,20351,2025-11-23,Boston Bruins,San Jose Sharks,1,3,Final
+20252026,20352,2025-11-23,Calgary Flames,Vancouver Canucks,5,2,Final
+20252026,20353,2025-11-24,Philadelphia Flyers,Tampa Bay Lightning,0,3,Final
+20252026,20354,2025-11-24,Detroit Red Wings,New Jersey Devils,3,4,Final
+20252026,20355,2025-11-24,St Louis Blues,New York Rangers,2,3,Final
+20252026,20356,2025-11-24,Columbus Blue Jackets,Washington Capitals,1,5,Final
+20252026,20357,2025-11-24,Florida Panthers,Nashville Predators,8,3,Final
+20252026,20358,2025-11-24,Vegas Golden Knights,Utah Mammoth,1,5,Final
+20252026,20359,2025-11-24,Ottawa Senators,Los Angeles Kings,1,2,Final
+20252026,20360,2025-11-25,Dallas Stars,Edmonton Oilers,8,3,Final
+20252026,20361,2025-11-26,Nashville Predators,Detroit Red Wings,6,3,Final
+20252026,20362,2025-11-26,Calgary Flames,Tampa Bay Lightning,1,5,Final
+20252026,20363,2025-11-26,Philadelphia Flyers,Florida Panthers,4,2,Final
+20252026,20364,2025-11-26,St Louis Blues,New Jersey Devils,2,3,Final OT
+20252026,20365,2025-11-26,Boston Bruins,New York Islanders,3,1,Final
+20252026,20366,2025-11-26,Buffalo Sabres,Pittsburgh Penguins,2,4,Final
+20252026,20367,2025-11-26,Winnipeg Jets,Washington Capitals,3,4,Final
+20252026,20368,2025-11-26,New York Rangers,Carolina Hurricanes,4,2,Final
+20252026,20369,2025-11-26,Toronto Maple Leafs,Columbus Blue Jackets,2,1,Final OT
+20252026,20370,2025-11-26,Minnesota Wild,Chicago Blackhawks,4,3,Final OT
+20252026,20371,2025-11-26,San Jose Sharks,Colorado Avalanche,0,6,Final
+20252026,20372,2025-11-26,Montreal Canadiens,Utah Mammoth,4,3,Final
+20252026,20373,2025-11-26,Ottawa Senators,Vegas Golden Knights,4,3,Final SO
+20252026,20374,2025-11-26,Vancouver Canucks,Anaheim Ducks,5,4,Final
+20252026,20375,2025-11-26,Dallas Stars,Seattle Kraken,3,2,Final
+20252026,20376,2025-11-28,New York Rangers,Boston Bruins,6,2,Final
+20252026,20377,2025-11-28,Tampa Bay Lightning,Detroit Red Wings,6,3,Final
+20252026,20378,2025-11-28,Colorado Avalanche,Minnesota Wild,2,3,Final SO
+20252026,20379,2025-11-28,New Jersey Devils,Buffalo Sabres,5,0,Final
+20252026,20380,2025-11-28,Calgary Flames,Florida Panthers,5,3,Final
+20252026,20381,2025-11-28,Philadelphia Flyers,New York Islanders,4,3,Final SO
+20252026,20382,2025-11-28,Ottawa Senators,St Louis Blues,3,4,Final
+20252026,20383,2025-11-28,Montreal Canadiens,Vegas Golden Knights,4,1,Final
+20252026,20384,2025-11-28,Los Angeles Kings,Anaheim Ducks,4,5,Final SO
+20252026,20385,2025-11-28,Vancouver Canucks,San Jose Sharks,2,3,Final
+20252026,20386,2025-11-28,Toronto Maple Leafs,Washington Capitals,2,4,Final
+20252026,20387,2025-11-28,Winnipeg Jets,Carolina Hurricanes,1,5,Final
+20252026,20388,2025-11-28,Pittsburgh Penguins,Columbus Blue Jackets,4,3,Final OT
+20252026,20389,2025-11-28,Nashville Predators,Chicago Blackhawks,4,3,Final
+20252026,20390,2025-11-28,Utah Mammoth,Dallas Stars,3,4,Final
+20252026,20391,2025-11-29,Tampa Bay Lightning,New York Rangers,4,1,Final
+20252026,20392,2025-11-29,Montreal Canadiens,Colorado Avalanche,2,7,Final
+20252026,20393,2025-11-29,Edmonton Oilers,Seattle Kraken,4,0,Final
+20252026,20394,2025-11-29,Detroit Red Wings,Boston Bruins,2,3,Final SO
+20252026,20395,2025-11-29,Philadelphia Flyers,New Jersey Devils,5,3,Final
+20252026,20396,2025-11-29,Toronto Maple Leafs,Pittsburgh Penguins,7,2,Final
+20252026,20397,2025-11-29,Winnipeg Jets,Nashville Predators,5,2,Final
+20252026,20398,2025-11-29,Utah Mammoth,St Louis Blues,0,1,Final
+20252026,20399,2025-11-29,Buffalo Sabres,Minnesota Wild,3,2,Final SO
+20252026,20400,2025-11-29,San Jose Sharks,Vegas Golden Knights,3,4,Final
+20252026,20401,2025-11-29,Vancouver Canucks,Los Angeles Kings,1,2,Final OT
+20252026,20402,2025-11-30,Washington Capitals,New York Islanders,4,1,Final
+20252026,20403,2025-11-30,Anaheim Ducks,Chicago Blackhawks,3,5,Final
+20252026,20404,2025-11-30,Calgary Flames,Carolina Hurricanes,0,1,Final OT
+20252026,20405,2025-11-30,Ottawa Senators,Dallas Stars,1,6,Final
+20252026,20406,2025-12-01,Columbus Blue Jackets,New Jersey Devils,5,3,Final
+20252026,20407,2025-12-01,Pittsburgh Penguins,Philadelphia Flyers,5,1,Final
+20252026,20408,2025-12-01,Winnipeg Jets,Buffalo Sabres,1,5,Final
+20252026,20409,2025-12-01,Anaheim Ducks,St Louis Blues,4,1,Final
+20252026,20410,2025-12-01,Utah Mammoth,San Jose Sharks,3,6,Final
+20252026,20411,2025-12-02,Ottawa Senators,Montreal Canadiens,5,2,Final
+20252026,20412,2025-12-02,Boston Bruins,Detroit Red Wings,4,5,Final
+20252026,20413,2025-12-02,Toronto Maple Leafs,Florida Panthers,4,1,Final
+20252026,20414,2025-12-02,Tampa Bay Lightning,New York Islanders,1,2,Final
+20252026,20415,2025-12-02,Dallas Stars,New York Rangers,2,3,Final OT
+20252026,20416,2025-12-02,Calgary Flames,Nashville Predators,1,5,Final
+20252026,20417,2025-12-02,Vancouver Canucks,Colorado Avalanche,1,3,Final
+20252026,20418,2025-12-02,Minnesota Wild,Edmonton Oilers,1,0,Final
+20252026,20419,2025-12-02,Chicago Blackhawks,Vegas Golden Knights,3,4,Final SO
+20252026,20420,2025-12-02,Washington Capitals,Los Angeles Kings,3,1,Final
+20252026,20421,2025-12-03,Dallas Stars,New Jersey Devils,3,0,Final
+20252026,20422,2025-12-03,Winnipeg Jets,Montreal Canadiens,2,3,Final SO
+20252026,20423,2025-12-03,Buffalo Sabres,Philadelphia Flyers,2,5,Final
+20252026,20424,2025-12-03,Utah Mammoth,Anaheim Ducks,7,0,Final
+20252026,20425,2025-12-03,Washington Capitals,San Jose Sharks,7,1,Final
+20252026,20426,2025-12-04,St Louis Blues,Boston Bruins,2,5,Final
+20252026,20427,2025-12-04,New York Rangers,Ottawa Senators,4,2,Final
+20252026,20428,2025-12-04,Pittsburgh Penguins,Tampa Bay Lightning,4,3,Final
+20252026,20429,2025-12-04,Nashville Predators,Florida Panthers,2,1,Final OT
+20252026,20430,2025-12-04,Colorado Avalanche,New York Islanders,3,6,Final
+20252026,20431,2025-12-04,Toronto Maple Leafs,Carolina Hurricanes,5,1,Final
+20252026,20432,2025-12-04,Detroit Red Wings,Columbus Blue Jackets,5,6,Final SO
+20252026,20433,2025-12-04,Minnesota Wild,Calgary Flames,1,4,Final
+20252026,20434,2025-12-04,Seattle Kraken,Edmonton Oilers,4,9,Final
+20252026,20435,2025-12-04,Chicago Blackhawks,Los Angeles Kings,2,1,Final
+20252026,20436,2025-12-05,Vegas Golden Knights,New Jersey Devils,3,0,Final
+20252026,20437,2025-12-05,Buffalo Sabres,Winnipeg Jets,1,4,Final
+20252026,20438,2025-12-05,San Jose Sharks,Dallas Stars,1,4,Final
+20252026,20439,2025-12-05,Utah Mammoth,Vancouver Canucks,4,1,Final
+20252026,20440,2025-12-05,Washington Capitals,Anaheim Ducks,3,4,Final SO
+20252026,20441,2025-12-06,Colorado Avalanche,New York Rangers,3,2,Final OT
+20252026,20442,2025-12-06,Columbus Blue Jackets,Florida Panthers,6,7,Final OT
+20252026,20443,2025-12-06,New Jersey Devils,Boston Bruins,1,4,Final
+20252026,20444,2025-12-06,Montreal Canadiens,Toronto Maple Leafs,2,1,Final SO
+20252026,20445,2025-12-06,St Louis Blues,Ottawa Senators,2,1,Final
+20252026,20446,2025-12-06,New York Islanders,Tampa Bay Lightning,2,0,Final
+20252026,20447,2025-12-06,Nashville Predators,Carolina Hurricanes,3,6,Final
+20252026,20448,2025-12-06,Utah Mammoth,Calgary Flames,0,2,Final
+20252026,20449,2025-12-06,Chicago Blackhawks,Los Angeles Kings,0,6,Final
+20252026,20450,2025-12-06,Winnipeg Jets,Edmonton Oilers,2,6,Final
+20252026,20451,2025-12-06,Minnesota Wild,Vancouver Canucks,2,4,Final
+20252026,20452,2025-12-06,Detroit Red Wings,Seattle Kraken,4,3,Final
+20252026,20453,2025-12-07,Colorado Avalanche,Philadelphia Flyers,3,2,Final
+20252026,20454,2025-12-07,New York Islanders,Florida Panthers,1,4,Final
+20252026,20455,2025-12-07,San Jose Sharks,Carolina Hurricanes,4,1,Final
+20252026,20456,2025-12-07,Pittsburgh Penguins,Dallas Stars,2,3,Final SO
+20252026,20457,2025-12-07,St Louis Blues,Montreal Canadiens,4,3,Final
+20252026,20458,2025-12-07,Vegas Golden Knights,New York Rangers,3,2,Final OT
+20252026,20459,2025-12-07,Columbus Blue Jackets,Washington Capitals,0,2,Final
+20252026,20460,2025-12-07,Chicago Blackhawks,Anaheim Ducks,1,7,Final
+20252026,20461,2025-12-08,Tampa Bay Lightning,Toronto Maple Leafs,0,2,Final
+20252026,20462,2025-12-08,Los Angeles Kings,Utah Mammoth,4,2,Final
+20252026,20463,2025-12-08,Buffalo Sabres,Calgary Flames,4,7,Final
+20252026,20464,2025-12-08,Detroit Red Wings,Vancouver Canucks,4,0,Final
+20252026,20465,2025-12-08,Minnesota Wild,Seattle Kraken,4,1,Final
+20252026,20466,2025-12-09,Tampa Bay Lightning,Montreal Canadiens,6,1,Final
+20252026,20467,2025-12-09,New Jersey Devils,Ottawa Senators,4,3,Final
+20252026,20468,2025-12-09,Vegas Golden Knights,New York Islanders,4,5,Final SO
+20252026,20469,2025-12-09,San Jose Sharks,Philadelphia Flyers,1,4,Final
+20252026,20470,2025-12-09,Anaheim Ducks,Pittsburgh Penguins,4,3,Final SO
+20252026,20471,2025-12-09,Columbus Blue Jackets,Carolina Hurricanes,1,4,Final
+20252026,20472,2025-12-09,Boston Bruins,St Louis Blues,5,2,Final
+20252026,20473,2025-12-09,Dallas Stars,Winnipeg Jets,4,3,Final
+20252026,20474,2025-12-09,Buffalo Sabres,Edmonton Oilers,4,3,Final OT
+20252026,20475,2025-12-09,Colorado Avalanche,Nashville Predators,3,4,Final SO
+20252026,20476,2025-12-10,New York Rangers,Chicago Blackhawks,0,3,Final
+20252026,20477,2025-12-10,Detroit Red Wings,Calgary Flames,4,3,Final
+20252026,20478,2025-12-10,Florida Panthers,Utah Mammoth,4,3,Final
+20252026,20479,2025-12-10,Los Angeles Kings,Seattle Kraken,2,3,Final OT
+20252026,20480,2025-12-11,San Jose Sharks,Toronto Maple Leafs,3,2,Final OT
+20252026,20481,2025-12-11,Tampa Bay Lightning,New Jersey Devils,8,4,Final
+20252026,20482,2025-12-11,Anaheim Ducks,New York Islanders,2,5,Final
+20252026,20483,2025-12-11,Vegas Golden Knights,Philadelphia Flyers,3,2,Final OT
+20252026,20484,2025-12-11,Montreal Canadiens,Pittsburgh Penguins,4,2,Final
+20252026,20485,2025-12-11,Carolina Hurricanes,Washington Capitals,3,2,Final SO
+20252026,20486,2025-12-11,Ottawa Senators,Columbus Blue Jackets,6,3,Final
+20252026,20487,2025-12-11,St Louis Blues,Nashville Predators,2,7,Final
+20252026,20488,2025-12-11,Dallas Stars,Minnesota Wild,2,5,Final
+20252026,20489,2025-12-11,Boston Bruins,Winnipeg Jets,6,3,Final
+20252026,20490,2025-12-11,Florida Panthers,Colorado Avalanche,2,6,Final
+20252026,20491,2025-12-11,Detroit Red Wings,Edmonton Oilers,1,4,Final
+20252026,20492,2025-12-11,Buffalo Sabres,Vancouver Canucks,3,2,Final
+20252026,20493,2025-12-12,Chicago Blackhawks,St Louis Blues,2,3,Final
+20252026,20494,2025-12-12,Seattle Kraken,Utah Mammoth,3,5,Final
+20252026,20495,2025-12-13,Anaheim Ducks,New Jersey Devils,1,4,Final
+20252026,20496,2025-12-13,Ottawa Senators,Minnesota Wild,2,3,Final
+20252026,20497,2025-12-13,San Jose Sharks,Pittsburgh Penguins,6,5,Final OT
+20252026,20498,2025-12-13,Tampa Bay Lightning,New York Islanders,2,3,Final SO
+20252026,20499,2025-12-13,Edmonton Oilers,Toronto Maple Leafs,6,3,Final
+20252026,20500,2025-12-13,Montreal Canadiens,New York Rangers,4,5,Final OT
+20252026,20501,2025-12-13,Carolina Hurricanes,Philadelphia Flyers,4,3,Final SO
+20252026,20502,2025-12-13,Vegas Golden Knights,Columbus Blue Jackets,3,2,Final
+20252026,20503,2025-12-13,Washington Capitals,Winnipeg Jets,1,5,Final
+20252026,20504,2025-12-13,Detroit Red Wings,Chicago Blackhawks,4,0,Final
+20252026,20505,2025-12-13,Florida Panthers,Dallas Stars,4,0,Final
+20252026,20506,2025-12-13,Nashville Predators,Colorado Avalanche,2,4,Final
+20252026,20507,2025-12-13,Calgary Flames,Los Angeles Kings,2,1,Final OT
+20252026,20508,2025-12-14,Vancouver Canucks,New Jersey Devils,2,1,Final
+20252026,20509,2025-12-14,Utah Mammoth,Pittsburgh Penguins,5,4,Final OT
+20252026,20510,2025-12-14,Philadelphia Flyers,Carolina Hurricanes,2,3,Final SO
+20252026,20511,2025-12-14,Boston Bruins,Minnesota Wild,2,6,Final
+20252026,20512,2025-12-14,Edmonton Oilers,Montreal Canadiens,1,4,Final
+20252026,20513,2025-12-14,Buffalo Sabres,Seattle Kraken,3,1,Final
+20252026,20514,2025-12-15,Florida Panthers,Tampa Bay Lightning,5,2,Final
+20252026,20515,2025-12-15,Anaheim Ducks,New York Rangers,4,1,Final
+20252026,20516,2025-12-15,Ottawa Senators,Winnipeg Jets,3,2,Final OT
+20252026,20517,2025-12-15,Nashville Predators,St Louis Blues,5,2,Final
+20252026,20518,2025-12-15,Los Angeles Kings,Dallas Stars,1,4,Final
+20252026,20519,2025-12-16,Utah Mammoth,Boston Bruins,1,4,Final
+20252026,20520,2025-12-16,Chicago Blackhawks,Toronto Maple Leafs,2,3,Final
+20252026,20521,2025-12-16,Philadelphia Flyers,Montreal Canadiens,4,1,Final
+20252026,20522,2025-12-16,New York Islanders,Detroit Red Wings,2,3,Final
+20252026,20523,2025-12-16,Vancouver Canucks,New York Rangers,3,0,Final
+20252026,20524,2025-12-16,Edmonton Oilers,Pittsburgh Penguins,6,4,Final
+20252026,20525,2025-12-16,Anaheim Ducks,Columbus Blue Jackets,3,4,Final OT
+20252026,20526,2025-12-16,Washington Capitals,Minnesota Wild,0,5,Final
+20252026,20527,2025-12-16,Calgary Flames,San Jose Sharks,3,6,Final
+20252026,20528,2025-12-16,Colorado Avalanche,Seattle Kraken,5,3,Final
+20252026,20529,2025-12-17,Los Angeles Kings,Florida Panthers,2,3,Final
+20252026,20530,2025-12-17,Utah Mammoth,Detroit Red Wings,4,1,Final
+20252026,20531,2025-12-17,Winnipeg Jets,St Louis Blues,0,1,Final
+20252026,20532,2025-12-17,Carolina Hurricanes,Nashville Predators,4,1,Final
+20252026,20533,2025-12-17,New Jersey Devils,Vegas Golden Knights,2,1,Final SO
+20252026,20534,2025-12-18,Edmonton Oilers,Boston Bruins,3,1,Final
+20252026,20535,2025-12-18,Philadelphia Flyers,Buffalo Sabres,3,5,Final
+20252026,20536,2025-12-18,Chicago Blackhawks,Montreal Canadiens,1,4,Final
+20252026,20537,2025-12-18,Pittsburgh Penguins,Ottawa Senators,0,4,Final
+20252026,20538,2025-12-18,Los Angeles Kings,Tampa Bay Lightning,2,1,Final
+20252026,20539,2025-12-18,Toronto Maple Leafs,Washington Capitals,0,4,Final
+20252026,20540,2025-12-18,Minnesota Wild,Columbus Blue Jackets,5,2,Final
+20252026,20541,2025-12-18,New York Rangers,St Louis Blues,2,1,Final OT
+20252026,20542,2025-12-18,Seattle Kraken,Calgary Flames,2,4,Final
+20252026,20543,2025-12-18,Dallas Stars,San Jose Sharks,5,3,Final
+20252026,20544,2025-12-19,Carolina Hurricanes,Florida Panthers,3,4,Final SO
+20252026,20545,2025-12-19,Vancouver Canucks,New York Islanders,4,1,Final
+20252026,20546,2025-12-19,Winnipeg Jets,Colorado Avalanche,2,3,Final
+20252026,20547,2025-12-19,New Jersey Devils,Utah Mammoth,2,1,Final
+20252026,20548,2025-12-19,Dallas Stars,Anaheim Ducks,8,3,Final
+20252026,20549,2025-12-20,Philadelphia Flyers,New York Rangers,4,5,Final SO
+20252026,20550,2025-12-20,Detroit Red Wings,Washington Capitals,5,2,Final
+20252026,20551,2025-12-20,Chicago Blackhawks,Ottawa Senators,4,6,Final
+20252026,20552,2025-12-20,Edmonton Oilers,Minnesota Wild,2,5,Final
+20252026,20553,2025-12-20,New York Islanders,Buffalo Sabres,2,3,Final SO
+20252026,20554,2025-12-20,St Louis Blues,Florida Panthers,6,2,Final
+20252026,20555,2025-12-20,Vancouver Canucks,Boston Bruins,5,4,Final SO
+20252026,20556,2025-12-20,Pittsburgh Penguins,Montreal Canadiens,0,4,Final
+20252026,20557,2025-12-20,Carolina Hurricanes,Tampa Bay Lightning,4,6,Final
+20252026,20558,2025-12-20,Toronto Maple Leafs,Nashville Predators,3,5,Final
+20252026,20559,2025-12-20,Vegas Golden Knights,Calgary Flames,3,6,Final
+20252026,20560,2025-12-20,Columbus Blue Jackets,Anaheim Ducks,3,4,Final
+20252026,20561,2025-12-20,Seattle Kraken,San Jose Sharks,4,2,Final
+20252026,20562,2025-12-21,Washington Capitals,Detroit Red Wings,2,3,Final OT
+20252026,20563,2025-12-21,Colorado Avalanche,Minnesota Wild,5,1,Final
+20252026,20564,2025-12-21,Ottawa Senators,Boston Bruins,6,2,Final
+20252026,20565,2025-12-21,Buffalo Sabres,New Jersey Devils,3,1,Final
+20252026,20566,2025-12-21,Montreal Canadiens,Pittsburgh Penguins,3,4,Final SO
+20252026,20567,2025-12-21,New York Rangers,Nashville Predators,1,2,Final
+20252026,20568,2025-12-21,Toronto Maple Leafs,Dallas Stars,1,5,Final
+20252026,20569,2025-12-21,Winnipeg Jets,Utah Mammoth,3,4,Final OT
+20252026,20570,2025-12-21,Vegas Golden Knights,Edmonton Oilers,3,4,Final
+20252026,20571,2025-12-22,St Louis Blues,Tampa Bay Lightning,1,4,Final
+20252026,20572,2025-12-22,Vancouver Canucks,Philadelphia Flyers,2,5,Final
+20252026,20573,2025-12-22,Seattle Kraken,Anaheim Ducks,3,1,Final
+20252026,20574,2025-12-22,Columbus Blue Jackets,Los Angeles Kings,3,1,Final
+20252026,20575,2025-12-23,Pittsburgh Penguins,Toronto Maple Leafs,3,6,Final
+20252026,20576,2025-12-23,New York Rangers,Washington Capitals,7,3,Final
+20252026,20577,2025-12-23,Montreal Canadiens,Boston Bruins,6,2,Final
+20252026,20578,2025-12-23,Buffalo Sabres,Ottawa Senators,3,2,Final OT
+20252026,20579,2025-12-23,Dallas Stars,Detroit Red Wings,3,4,Final OT
+20252026,20580,2025-12-23,New Jersey Devils,New York Islanders,1,2,Final
+20252026,20581,2025-12-23,Florida Panthers,Carolina Hurricanes,5,2,Final
+20252026,20582,2025-12-23,Nashville Predators,Minnesota Wild,3,2,Final OT
+20252026,20583,2025-12-23,Philadelphia Flyers,Chicago Blackhawks,3,1,Final
+20252026,20584,2025-12-23,Utah Mammoth,Colorado Avalanche,0,1,Final
+20252026,20585,2025-12-23,Calgary Flames,Edmonton Oilers,1,5,Final
+20252026,20586,2025-12-23,San Jose Sharks,Vegas Golden Knights,2,7,Final
+20252026,20587,2025-12-23,Seattle Kraken,Los Angeles Kings,3,2,Final
+20252026,20588,2025-12-27,New York Rangers,New York Islanders,0,2,Final
+20252026,20589,2025-12-27,Boston Bruins,Buffalo Sabres,1,4,Final
+20252026,20590,2025-12-27,Ottawa Senators,Toronto Maple Leafs,5,7,Final
+20252026,20591,2025-12-27,Tampa Bay Lightning,Florida Panthers,4,2,Final
+20252026,20592,2025-12-27,Washington Capitals,New Jersey Devils,4,3,Final OT
+20252026,20593,2025-12-27,Detroit Red Wings,Carolina Hurricanes,2,5,Final
+20252026,20594,2025-12-27,Minnesota Wild,Winnipeg Jets,4,3,Final OT
+20252026,20595,2025-12-27,Nashville Predators,St Louis Blues,2,3,Final
+20252026,20596,2025-12-27,Chicago Blackhawks,Dallas Stars,4,3,Final SO
+20252026,20597,2025-12-27,Anaheim Ducks,Los Angeles Kings,1,6,Final
+20252026,20598,2025-12-27,Edmonton Oilers,Calgary Flames,2,3,Final
+20252026,20599,2025-12-27,San Jose Sharks,Vancouver Canucks,6,3,Final
+20252026,20600,2025-12-27,Colorado Avalanche,Vegas Golden Knights,6,5,Final SO
+20252026,20601,2025-12-28,Toronto Maple Leafs,Detroit Red Wings,2,3,Final OT
+20252026,20602,2025-12-28,Montreal Canadiens,Tampa Bay Lightning,4,5,Final SO
+20252026,20603,2025-12-28,New York Islanders,Columbus Blue Jackets,2,4,Final
+20252026,20604,2025-12-28,Pittsburgh Penguins,Chicago Blackhawks,7,3,Final
+20252026,20605,2025-12-28,Philadelphia Flyers,Seattle Kraken,1,4,Final
+20252026,20606,2025-12-29,Columbus Blue Jackets,Ottawa Senators,4,1,Final
+20252026,20607,2025-12-29,Washington Capitals,Florida Panthers,3,5,Final
+20252026,20608,2025-12-29,New York Rangers,Carolina Hurricanes,2,3,Final OT
+20252026,20609,2025-12-29,Edmonton Oilers,Winnipeg Jets,3,1,Final
+20252026,20610,2025-12-29,Buffalo Sabres,St Louis Blues,4,2,Final
+20252026,20611,2025-12-29,Los Angeles Kings,Colorado Avalanche,2,5,Final
+20252026,20612,2025-12-29,Nashville Predators,Utah Mammoth,4,3,Final
+20252026,20613,2025-12-29,Boston Bruins,Calgary Flames,1,2,Final OT
+20252026,20614,2025-12-29,Minnesota Wild,Vegas Golden Knights,5,2,Final
+20252026,20615,2025-12-29,San Jose Sharks,Anaheim Ducks,5,4,Final
+20252026,20616,2025-12-29,Vancouver Canucks,Seattle Kraken,3,2,Final SO
+20252026,20617,2025-12-30,New Jersey Devils,Toronto Maple Leafs,0,4,Final
+20252026,20618,2025-12-30,Montreal Canadiens,Florida Panthers,3,2,Final OT
+20252026,20619,2025-12-30,Carolina Hurricanes,Pittsburgh Penguins,1,5,Final
+20252026,20620,2025-12-30,New York Islanders,Chicago Blackhawks,3,2,Final SO
+20252026,20621,2025-12-30,Philadelphia Flyers,Vancouver Canucks,6,3,Final
+20252026,20622,2025-12-31,New York Rangers,Washington Capitals,3,6,Final
+20252026,20623,2025-12-31,Nashville Predators,Vegas Golden Knights,4,2,Final
+20252026,20624,2025-12-31,Tampa Bay Lightning,Anaheim Ducks,4,3,Final OT
+20252026,20625,2025-12-31,Minnesota Wild,San Jose Sharks,3,4,Final SO
+20252026,20626,2025-12-31,Winnipeg Jets,Detroit Red Wings,1,2,Final
+20252026,20627,2025-12-31,New Jersey Devils,Columbus Blue Jackets,3,2,Final
+20252026,20628,2025-12-31,Buffalo Sabres,Dallas Stars,4,1,Final
+20252026,20629,2025-12-31,St Louis Blues,Colorado Avalanche,1,6,Final
+20252026,20630,2025-12-31,Philadelphia Flyers,Calgary Flames,1,5,Final
+20252026,20631,2025-12-31,Boston Bruins,Edmonton Oilers,6,2,Final
+20252026,20632,2026-01-01,Washington Capitals,Ottawa Senators,3,4,Final
+20252026,20633,2026-01-01,Utah Mammoth,New York Islanders,7,2,Final
+20252026,20634,2026-01-01,Winnipeg Jets,Toronto Maple Leafs,5,6,Final
+20252026,20635,2026-01-01,Detroit Red Wings,Pittsburgh Penguins,3,4,Final OT
+20252026,20636,2026-01-01,Montreal Canadiens,Carolina Hurricanes,7,5,Final
+20252026,20637,2026-01-01,Dallas Stars,Chicago Blackhawks,3,4,Final
+20252026,20638,2026-01-01,Nashville Predators,Seattle Kraken,1,4,Final
+20252026,20639,2026-01-01,Tampa Bay Lightning,Los Angeles Kings,5,3,Final
+20252026,20640,2026-01-02,Vegas Golden Knights,St Louis Blues,3,4,Final
+20252026,20641,2026-01-02,New York Rangers,Florida Panthers,5,1,Final
+20252026,20642,2026-01-02,Seattle Kraken,Vancouver Canucks,4,3,Final SO
+20252026,20643,2026-01-02,Minnesota Wild,Anaheim Ducks,5,2,Final
+20252026,20644,2026-01-03,Pittsburgh Penguins,Detroit Red Wings,4,1,Final
+20252026,20645,2026-01-03,Utah Mammoth,New Jersey Devils,1,4,Final
+20252026,20646,2026-01-03,Buffalo Sabres,Columbus Blue Jackets,1,5,Final
+20252026,20647,2026-01-03,Philadelphia Flyers,Edmonton Oilers,5,2,Final
+20252026,20648,2026-01-03,Montreal Canadiens,St Louis Blues,0,2,Final
+20252026,20649,2026-01-03,Tampa Bay Lightning,San Jose Sharks,7,3,Final
+20252026,20650,2026-01-03,Winnipeg Jets,Ottawa Senators,2,4,Final
+20252026,20651,2026-01-03,Toronto Maple Leafs,New York Islanders,3,4,Final OT
+20252026,20652,2026-01-03,Chicago Blackhawks,Washington Capitals,3,2,Final SO
+20252026,20653,2026-01-03,Colorado Avalanche,Carolina Hurricanes,5,3,Final
+20252026,20654,2026-01-03,Nashville Predators,Calgary Flames,4,3,Final
+20252026,20655,2026-01-03,Minnesota Wild,Los Angeles Kings,4,5,Final SO
+20252026,20656,2026-01-03,Boston Bruins,Vancouver Canucks,3,2,Final OT
+20252026,20657,2026-01-04,Montreal Canadiens,Dallas Stars,4,3,Final OT
+20252026,20658,2026-01-04,Pittsburgh Penguins,Columbus Blue Jackets,5,4,Final OT
+20252026,20659,2026-01-04,Colorado Avalanche,Florida Panthers,1,2,Final
+20252026,20660,2026-01-04,Carolina Hurricanes,New Jersey Devils,3,1,Final
+20252026,20661,2026-01-04,Vegas Golden Knights,Chicago Blackhawks,2,3,Final OT
+20252026,20662,2026-01-05,Utah Mammoth,New York Rangers,3,2,Final OT
+20252026,20663,2026-01-05,Anaheim Ducks,Washington Capitals,4,7,Final
+20252026,20664,2026-01-05,Detroit Red Wings,Ottawa Senators,5,3,Final
+20252026,20665,2026-01-05,Seattle Kraken,Calgary Flames,5,1,Final
+20252026,20666,2026-01-05,Minnesota Wild,Los Angeles Kings,2,4,Final
+20252026,20667,2026-01-06,Vancouver Canucks,Buffalo Sabres,3,5,Final
+20252026,20668,2026-01-06,Colorado Avalanche,Tampa Bay Lightning,2,4,Final
+20252026,20669,2026-01-06,New Jersey Devils,New York Islanders,0,9,Final
+20252026,20670,2026-01-06,Anaheim Ducks,Philadelphia Flyers,2,5,Final
+20252026,20671,2026-01-06,Dallas Stars,Carolina Hurricanes,3,6,Final
+20252026,20672,2026-01-06,Florida Panthers,Toronto Maple Leafs,1,4,Final
+20252026,20673,2026-01-06,Vegas Golden Knights,Winnipeg Jets,4,3,Final OT
+20252026,20674,2026-01-06,Nashville Predators,Edmonton Oilers,2,6,Final
+20252026,20675,2026-01-06,Columbus Blue Jackets,San Jose Sharks,2,5,Final
+20252026,20676,2026-01-06,Boston Bruins,Seattle Kraken,4,7,Final
+20252026,20677,2026-01-07,Dallas Stars,Washington Capitals,4,1,Final
+20252026,20678,2026-01-07,Calgary Flames,Montreal Canadiens,1,4,Final
+20252026,20679,2026-01-07,St Louis Blues,Chicago Blackhawks,3,7,Final
+20252026,20680,2026-01-07,Ottawa Senators,Utah Mammoth,1,3,Final
+20252026,20681,2026-01-07,San Jose Sharks,Los Angeles Kings,4,3,Final OT
+20252026,20682,2026-01-08,Calgary Flames,Boston Bruins,1,4,Final
+20252026,20683,2026-01-08,Florida Panthers,Montreal Canadiens,2,6,Final
+20252026,20684,2026-01-08,Vancouver Canucks,Detroit Red Wings,1,5,Final
+20252026,20685,2026-01-08,Buffalo Sabres,New York Rangers,5,2,Final
+20252026,20686,2026-01-08,Toronto Maple Leafs,Philadelphia Flyers,2,1,Final OT
+20252026,20687,2026-01-08,New Jersey Devils,Pittsburgh Penguins,1,4,Final
+20252026,20688,2026-01-08,Anaheim Ducks,Carolina Hurricanes,2,5,Final
+20252026,20689,2026-01-08,New York Islanders,Nashville Predators,1,2,Final SO
+20252026,20690,2026-01-08,Edmonton Oilers,Winnipeg Jets,4,3,Final
+20252026,20691,2026-01-08,Ottawa Senators,Colorado Avalanche,2,8,Final
+20252026,20692,2026-01-08,Columbus Blue Jackets,Vegas Golden Knights,3,5,Final
+20252026,20693,2026-01-08,Minnesota Wild,Seattle Kraken,3,2,Final OT
+20252026,20694,2026-01-09,Washington Capitals,Chicago Blackhawks,5,1,Final
+20252026,20695,2026-01-09,Los Angeles Kings,Winnipeg Jets,1,5,Final
+20252026,20696,2026-01-09,St Louis Blues,Utah Mammoth,2,4,Final
+20252026,20697,2026-01-10,New York Rangers,Boston Bruins,2,10,Final
+20252026,20698,2026-01-10,Calgary Flames,Pittsburgh Penguins,2,1,Final
+20252026,20699,2026-01-10,Columbus Blue Jackets,Colorado Avalanche,0,4,Final
+20252026,20700,2026-01-10,Dallas Stars,San Jose Sharks,4,5,Final OT
+20252026,20701,2026-01-10,Anaheim Ducks,Buffalo Sabres,3,5,Final
+20252026,20702,2026-01-10,Vancouver Canucks,Toronto Maple Leafs,0,5,Final
+20252026,20703,2026-01-10,Detroit Red Wings,Montreal Canadiens,4,0,Final
+20252026,20704,2026-01-10,Florida Panthers,Ottawa Senators,3,2,Final
+20252026,20705,2026-01-10,Tampa Bay Lightning,Philadelphia Flyers,7,2,Final
+20252026,20706,2026-01-10,Seattle Kraken,Carolina Hurricanes,2,3,Final
+20252026,20707,2026-01-10,Chicago Blackhawks,Nashville Predators,3,0,Final
+20252026,20708,2026-01-10,New York Islanders,Minnesota Wild,4,3,Final OT
+20252026,20709,2026-01-10,Los Angeles Kings,Edmonton Oilers,4,3,Final SO
+20252026,20710,2026-01-10,St Louis Blues,Vegas Golden Knights,2,4,Final
+20252026,20711,2026-01-11,New Jersey Devils,Winnipeg Jets,3,4,Final
+20252026,20712,2026-01-11,Pittsburgh Penguins,Boston Bruins,0,1,Final
+20252026,20713,2026-01-11,Washington Capitals,Nashville Predators,2,3,Final
+20252026,20714,2026-01-11,Columbus Blue Jackets,Utah Mammoth,3,2,Final OT
+20252026,20715,2026-01-11,Vegas Golden Knights,San Jose Sharks,7,2,Final
+20252026,20716,2026-01-12,Florida Panthers,Buffalo Sabres,4,3,Final
+20252026,20717,2026-01-12,Carolina Hurricanes,Detroit Red Wings,3,4,Final OT
+20252026,20718,2026-01-12,Seattle Kraken,New York Rangers,4,2,Final
+20252026,20719,2026-01-12,Tampa Bay Lightning,Philadelphia Flyers,5,1,Final
+20252026,20720,2026-01-12,Vancouver Canucks,Montreal Canadiens,3,6,Final
+20252026,20721,2026-01-12,New Jersey Devils,Minnesota Wild,5,2,Final
+20252026,20722,2026-01-12,Edmonton Oilers,Chicago Blackhawks,4,1,Final
+20252026,20723,2026-01-12,Toronto Maple Leafs,Colorado Avalanche,4,3,Final OT
+20252026,20724,2026-01-12,Dallas Stars,Los Angeles Kings,3,1,Final
+20252026,20725,2026-01-13,Vancouver Canucks,Ottawa Senators,1,2,Final
+20252026,20726,2026-01-13,Tampa Bay Lightning,Pittsburgh Penguins,2,1,Final SO
+20252026,20727,2026-01-13,Montreal Canadiens,Washington Capitals,2,3,Final OT
+20252026,20728,2026-01-13,Calgary Flames,Columbus Blue Jackets,3,5,Final
+20252026,20729,2026-01-13,Detroit Red Wings,Boston Bruins,0,3,Final
+20252026,20730,2026-01-13,Carolina Hurricanes,St Louis Blues,0,3,Final
+20252026,20731,2026-01-13,Edmonton Oilers,Nashville Predators,3,4,Final OT
+20252026,20732,2026-01-13,New York Islanders,Winnipeg Jets,4,5,Final
+20252026,20733,2026-01-13,Toronto Maple Leafs,Utah Mammoth,1,6,Final
+20252026,20734,2026-01-13,Dallas Stars,Anaheim Ducks,1,3,Final
+20252026,20735,2026-01-14,Seattle Kraken,New Jersey Devils,2,3,Final OT
+20252026,20736,2026-01-14,Philadelphia Flyers,Buffalo Sabres,2,5,Final
+20252026,20737,2026-01-14,Ottawa Senators,New York Rangers,8,4,Final
+20252026,20738,2026-01-14,Vegas Golden Knights,Los Angeles Kings,3,2,Final OT
+20252026,20739,2026-01-15,Seattle Kraken,Boston Bruins,2,4,Final
+20252026,20740,2026-01-15,Montreal Canadiens,Buffalo Sabres,3,5,Final
+20252026,20741,2026-01-15,Philadelphia Flyers,Pittsburgh Penguins,3,6,Final
+20252026,20742,2026-01-15,San Jose Sharks,Washington Capitals,3,2,Final
+20252026,20743,2026-01-15,Vancouver Canucks,Columbus Blue Jackets,1,4,Final
+20252026,20744,2026-01-15,Winnipeg Jets,Minnesota Wild,6,2,Final
+20252026,20745,2026-01-15,Calgary Flames,Chicago Blackhawks,3,1,Final
+20252026,20746,2026-01-15,Dallas Stars,Utah Mammoth,1,2,Final
+20252026,20747,2026-01-15,New York Islanders,Edmonton Oilers,1,0,Final
+20252026,20748,2026-01-15,Toronto Maple Leafs,Vegas Golden Knights,5,6,Final OT
+20252026,20749,2026-01-16,San Jose Sharks,Detroit Red Wings,2,4,Final
+20252026,20750,2026-01-16,Florida Panthers,Carolina Hurricanes,1,9,Final
+20252026,20751,2026-01-16,Tampa Bay Lightning,St Louis Blues,2,3,Final SO
+20252026,20752,2026-01-16,Nashville Predators,Colorado Avalanche,7,3,Final
+20252026,20753,2026-01-16,Anaheim Ducks,Los Angeles Kings,3,2,Final SO
+20252026,20754,2026-01-17,Minnesota Wild,Buffalo Sabres,5,4,Final OT
+20252026,20755,2026-01-17,New York Rangers,Philadelphia Flyers,6,3,Final
+20252026,20756,2026-01-17,New York Islanders,Calgary Flames,2,4,Final
+20252026,20757,2026-01-17,Seattle Kraken,Utah Mammoth,3,6,Final
+20252026,20758,2026-01-17,Montreal Canadiens,Ottawa Senators,6,5,Final OT
+20252026,20759,2026-01-17,Carolina Hurricanes,New Jersey Devils,4,1,Final
+20252026,20760,2026-01-17,Columbus Blue Jackets,Pittsburgh Penguins,4,3,Final SO
+20252026,20761,2026-01-17,Florida Panthers,Washington Capitals,5,2,Final
+20252026,20762,2026-01-17,Toronto Maple Leafs,Winnipeg Jets,4,3,Final OT
+20252026,20763,2026-01-17,Boston Bruins,Chicago Blackhawks,5,2,Final
+20252026,20764,2026-01-17,Edmonton Oilers,Vancouver Canucks,6,0,Final
+20252026,20765,2026-01-17,Nashville Predators,Vegas Golden Knights,2,7,Final
+20252026,20766,2026-01-17,Los Angeles Kings,Anaheim Ducks,1,2,Final OT
+20252026,20767,2026-01-18,Tampa Bay Lightning,Dallas Stars,4,1,Final
+20252026,20768,2026-01-18,Ottawa Senators,Detroit Red Wings,3,4,Final OT
+20252026,20769,2026-01-18,St Louis Blues,Edmonton Oilers,0,5,Final
+20252026,20770,2026-01-19,Buffalo Sabres,Carolina Hurricanes,1,2,Final
+20252026,20771,2026-01-19,Washington Capitals,Colorado Avalanche,2,5,Final
+20252026,20772,2026-01-19,Pittsburgh Penguins,Seattle Kraken,6,3,Final
+20252026,20773,2026-01-19,San Jose Sharks,Florida Panthers,4,1,Final
+20252026,20774,2026-01-19,Minnesota Wild,Toronto Maple Leafs,6,3,Final
+20252026,20775,2026-01-19,Philadelphia Flyers,Vegas Golden Knights,2,1,Final
+20252026,20776,2026-01-19,Winnipeg Jets,Chicago Blackhawks,0,2,Final
+20252026,20777,2026-01-19,New Jersey Devils,Calgary Flames,2,1,Final OT
+20252026,20778,2026-01-19,New York Islanders,Vancouver Canucks,4,3,Final
+20252026,20779,2026-01-19,New York Rangers,Anaheim Ducks,3,5,Final
+20252026,20780,2026-01-20,Minnesota Wild,Montreal Canadiens,3,4,Final
+20252026,20781,2026-01-20,San Jose Sharks,Tampa Bay Lightning,1,4,Final
+20252026,20782,2026-01-20,Ottawa Senators,Columbus Blue Jackets,4,1,Final
+20252026,20783,2026-01-20,Boston Bruins,Dallas Stars,2,6,Final
+20252026,20784,2026-01-20,Buffalo Sabres,Nashville Predators,5,3,Final
+20252026,20785,2026-01-20,St Louis Blues,Winnipeg Jets,1,3,Final
+20252026,20786,2026-01-20,New Jersey Devils,Edmonton Oilers,2,1,Final
+20252026,20787,2026-01-20,New York Rangers,Los Angeles Kings,3,4,Final
+20252026,20788,2026-01-21,Detroit Red Wings,Toronto Maple Leafs,2,1,Final OT
+20252026,20789,2026-01-21,Anaheim Ducks,Colorado Avalanche,2,1,Final SO
+20252026,20790,2026-01-21,Philadelphia Flyers,Utah Mammoth,4,5,Final OT
+20252026,20791,2026-01-21,Pittsburgh Penguins,Calgary Flames,4,1,Final
+20252026,20792,2026-01-21,Washington Capitals,Vancouver Canucks,3,4,Final
+20252026,20793,2026-01-21,New York Islanders,Seattle Kraken,1,4,Final
+20252026,20794,2026-01-22,Vegas Golden Knights,Boston Bruins,3,4,Final
+20252026,20795,2026-01-22,Buffalo Sabres,Montreal Canadiens,4,2,Final
+20252026,20796,2026-01-22,Chicago Blackhawks,Carolina Hurricanes,4,3,Final SO
+20252026,20797,2026-01-22,Dallas Stars,Columbus Blue Jackets,0,1,Final
+20252026,20798,2026-01-22,Ottawa Senators,Nashville Predators,3,5,Final
+20252026,20799,2026-01-22,Florida Panthers,Winnipeg Jets,2,1,Final SO
+20252026,20800,2026-01-22,Pittsburgh Penguins,Edmonton Oilers,6,2,Final
+20252026,20801,2026-01-22,Detroit Red Wings,Minnesota Wild,3,4,Final OT
+20252026,20802,2026-01-23,Vegas Golden Knights,Toronto Maple Leafs,6,3,Final
+20252026,20803,2026-01-23,Tampa Bay Lightning,Chicago Blackhawks,2,1,Final SO
+20252026,20804,2026-01-23,St Louis Blues,Dallas Stars,2,3,Final
+20252026,20805,2026-01-23,Philadelphia Flyers,Colorado Avalanche,7,3,Final
+20252026,20806,2026-01-23,Washington Capitals,Calgary Flames,3,1,Final
+20252026,20807,2026-01-23,New Jersey Devils,Vancouver Canucks,5,4,Final
+20252026,20808,2026-01-23,New York Rangers,San Jose Sharks,1,3,Final
+20252026,20809,2026-01-23,Anaheim Ducks,Seattle Kraken,4,2,Final
+20252026,20810,2026-01-24,Buffalo Sabres,New York Islanders,5,0,Final
+20252026,20811,2026-01-24,Utah Mammoth,Nashville Predators,5,2,Final
+20252026,20812,2026-01-24,Montreal Canadiens,Boston Bruins,3,4,Final
+20252026,20813,2026-01-24,Carolina Hurricanes,Ottawa Senators,4,1,Final
+20252026,20814,2026-01-24,Tampa Bay Lightning,Columbus Blue Jackets,5,8,Final
+20252026,20815,2026-01-24,Detroit Red Wings,Winnipeg Jets,5,1,Final
+20252026,20816,2026-01-24,Los Angeles Kings,St Louis Blues,5,4,Final SO
+20252026,20817,2026-01-24,Florida Panthers,Minnesota Wild,4,3,Final OT
+20252026,20818,2026-01-24,Washington Capitals,Edmonton Oilers,5,6,Final OT
+20252026,20819,2026-01-25,Colorado Avalanche,Toronto Maple Leafs,4,1,Final
+20252026,20820,2026-01-25,New Jersey Devils,Seattle Kraken,2,4,Final
+20252026,20821,2026-01-25,Vegas Golden Knights,Ottawa Senators,1,7,Final
+20252026,20822,2026-01-25,Pittsburgh Penguins,Vancouver Canucks,3,2,Final
+20252026,20823,2026-01-25,Florida Panthers,Chicago Blackhawks,5,1,Final
+20252026,20824,2026-01-25,Anaheim Ducks,Calgary Flames,4,3,Final OT
+20252026,20825,2026-01-26,Utah Mammoth,Tampa Bay Lightning,0,2,Final
+20252026,20826,2026-01-26,Boston Bruins,New York Rangers,3,4,Final OT
+20252026,20827,2026-01-26,New York Islanders,Philadelphia Flyers,4,0,Final
+20252026,20828,2026-03-09,Los Angeles Kings,Columbus Blue Jackets,5,4,Final OT
+20252026,20829,2026-01-26,Anaheim Ducks,Edmonton Oilers,4,7,Final
+20252026,20830,2026-01-27,Nashville Predators,Boston Bruins,2,3,Final OT
+20252026,20831,2026-01-27,Buffalo Sabres,Toronto Maple Leafs,7,4,Final
+20252026,20832,2026-01-27,Vegas Golden Knights,Montreal Canadiens,2,3,Final OT
+20252026,20833,2026-01-27,Los Angeles Kings,Detroit Red Wings,3,1,Final
+20252026,20834,2026-01-27,Utah Mammoth,Florida Panthers,4,3,Final
+20252026,20835,2026-01-27,Winnipeg Jets,New Jersey Devils,4,3,Final
+20252026,20836,2026-01-27,Dallas Stars,St Louis Blues,4,3,Final
+20252026,20837,2026-01-27,Chicago Blackhawks,Minnesota Wild,3,4,Final SO
+20252026,20838,2026-01-27,San Jose Sharks,Vancouver Canucks,5,2,Final
+20252026,20839,2026-01-27,Washington Capitals,Seattle Kraken,1,5,Final
+20252026,20840,2026-01-28,Philadelphia Flyers,Columbus Blue Jackets,3,5,Final
+20252026,20841,2026-01-28,Colorado Avalanche,Ottawa Senators,2,5,Final
+20252026,20842,2026-01-28,New York Rangers,New York Islanders,2,5,Final
+20252026,20843,2026-01-29,Philadelphia Flyers,Boston Bruins,3,6,Final
+20252026,20844,2026-01-29,Los Angeles Kings,Buffalo Sabres,1,4,Final
+20252026,20845,2026-01-29,Colorado Avalanche,Montreal Canadiens,3,7,Final
+20252026,20846,2026-01-29,Washington Capitals,Detroit Red Wings,4,3,Final SO
+20252026,20847,2026-01-29,Winnipeg Jets,Tampa Bay Lightning,1,4,Final
+20252026,20848,2026-01-29,Nashville Predators,New Jersey Devils,2,3,Final OT
+20252026,20849,2026-01-29,New York Islanders,New York Rangers,2,1,Final
+20252026,20850,2026-01-29,Chicago Blackhawks,Pittsburgh Penguins,2,6,Final
+20252026,20851,2026-01-29,Utah Mammoth,Carolina Hurricanes,4,5,Final
+20252026,20852,2026-01-29,Florida Panthers,St Louis Blues,4,5,Final
+20252026,20853,2026-01-29,Calgary Flames,Minnesota Wild,1,4,Final
+20252026,20854,2026-01-29,San Jose Sharks,Edmonton Oilers,3,4,Final OT
+20252026,20855,2026-01-29,Anaheim Ducks,Vancouver Canucks,0,2,Final
+20252026,20856,2026-01-29,Dallas Stars,Vegas Golden Knights,5,4,Final SO
+20252026,20857,2026-01-29,Toronto Maple Leafs,Seattle Kraken,2,5,Final
+20252026,20858,2026-01-30,Columbus Blue Jackets,Chicago Blackhawks,4,2,Final
+20252026,20859,2026-01-31,Los Angeles Kings,Philadelphia Flyers,3,2,Final OT
+20252026,20860,2026-01-31,Colorado Avalanche,Detroit Red Wings,5,0,Final
+20252026,20861,2026-01-31,New York Rangers,Pittsburgh Penguins,5,6,Final
+20252026,20862,2026-01-31,Winnipeg Jets,Florida Panthers,2,1,Final
+20252026,20863,2026-01-31,San Jose Sharks,Calgary Flames,2,3,Final
+20252026,20864,2026-01-31,Carolina Hurricanes,Washington Capitals,3,4,Final OT
+20252026,20865,2026-01-31,Montreal Canadiens,Buffalo Sabres,4,2,Final
+20252026,20866,2026-01-31,New Jersey Devils,Ottawa Senators,1,4,Final
+20252026,20867,2026-01-31,Nashville Predators,New York Islanders,4,3,Final
+20252026,20868,2026-01-31,Columbus Blue Jackets,St Louis Blues,5,3,Final
+20252026,20869,2026-01-31,Toronto Maple Leafs,Vancouver Canucks,3,2,Final SO
+20252026,20870,2026-01-31,Dallas Stars,Utah Mammoth,3,2,Final
+20252026,20871,2026-01-31,Minnesota Wild,Edmonton Oilers,7,3,Final
+20252026,20872,2026-01-31,Seattle Kraken,Vegas Golden Knights,3,2,Final
+20252026,20873,2026-02-01,Boston Bruins,Tampa Bay Lightning,5,6,Final SO
+20252026,20874,2026-02-01,Los Angeles Kings,Carolina Hurricanes,2,3,Final OT
+20252026,20875,2026-02-01,Vegas Golden Knights,Anaheim Ducks,3,4,Final
+20252026,20876,2026-02-02,Buffalo Sabres,Florida Panthers,5,3,Final
+20252026,20877,2026-02-02,Ottawa Senators,Pittsburgh Penguins,3,2,Final
+20252026,20878,2026-02-02,New York Islanders,Washington Capitals,1,4,Final
+20252026,20879,2026-02-02,Montreal Canadiens,Minnesota Wild,3,4,Final OT
+20252026,20880,2026-02-02,St Louis Blues,Nashville Predators,5,6,Final
+20252026,20881,2026-02-02,San Jose Sharks,Chicago Blackhawks,3,6,Final
+20252026,20882,2026-02-02,Winnipeg Jets,Dallas Stars,3,4,Final OT
+20252026,20883,2026-02-02,Detroit Red Wings,Colorado Avalanche,2,0,Final
+20252026,20884,2026-02-02,Vancouver Canucks,Utah Mammoth,2,6,Final
+20252026,20885,2026-02-02,Toronto Maple Leafs,Calgary Flames,4,2,Final
+20252026,20886,2026-02-03,Buffalo Sabres,Tampa Bay Lightning,3,4,Final OT
+20252026,20887,2026-02-03,Columbus Blue Jackets,New Jersey Devils,3,0,Final
+20252026,20888,2026-02-03,Pittsburgh Penguins,New York Islanders,4,5,Final OT
+20252026,20889,2026-02-03,Washington Capitals,Philadelphia Flyers,2,4,Final
+20252026,20890,2026-02-03,Ottawa Senators,Carolina Hurricanes,3,4,Final
+20252026,20891,2026-02-03,Toronto Maple Leafs,Edmonton Oilers,5,2,Final
+20252026,20892,2026-02-03,Seattle Kraken,Anaheim Ducks,2,4,Final
+20252026,20893,2026-02-04,Boston Bruins,Florida Panthers,4,5,Final SO
+20252026,20894,2026-02-04,Chicago Blackhawks,Columbus Blue Jackets,0,4,Final
+20252026,20895,2026-02-04,Montreal Canadiens,Winnipeg Jets,5,1,Final
+20252026,20896,2026-02-04,Minnesota Wild,Nashville Predators,6,5,Final OT
+20252026,20897,2026-02-04,San Jose Sharks,Colorado Avalanche,2,4,Final
+20252026,20898,2026-02-04,Detroit Red Wings,Utah Mammoth,1,4,Final
+20252026,20899,2026-02-04,St Louis Blues,Dallas Stars,4,5,Final
+20252026,20900,2026-02-04,Edmonton Oilers,Calgary Flames,3,4,Final
+20252026,20901,2026-02-04,Vancouver Canucks,Vegas Golden Knights,2,5,Final
+20252026,20902,2026-02-04,Seattle Kraken,Los Angeles Kings,4,2,Final
+20252026,20903,2026-02-05,Pittsburgh Penguins,Buffalo Sabres,5,2,Final
+20252026,20904,2026-02-05,Florida Panthers,Tampa Bay Lightning,1,6,Final
+20252026,20905,2026-02-05,New York Islanders,New Jersey Devils,3,1,Final
+20252026,20906,2026-02-05,Carolina Hurricanes,New York Rangers,2,0,Final
+20252026,20907,2026-02-05,Ottawa Senators,Philadelphia Flyers,2,1,Final OT
+20252026,20908,2026-02-05,Nashville Predators,Washington Capitals,2,4,Final
+20252026,20909,2026-02-05,Los Angeles Kings,Vegas Golden Knights,1,4,Final
+20252026,20910,2026-02-25,Buffalo Sabres,New Jersey Devils,2,1,Final
+20252026,20911,2026-02-25,Philadelphia Flyers,Washington Capitals,1,3,Final
+20252026,20912,2026-02-25,Toronto Maple Leafs,Tampa Bay Lightning,2,4,Final
+20252026,20913,2026-02-25,Seattle Kraken,Dallas Stars,1,4,Final
+20252026,20914,2026-02-25,Colorado Avalanche,Utah Mammoth,4,2,Final
+20252026,20915,2026-02-25,Winnipeg Jets,Vancouver Canucks,3,2,Final OT
+20252026,20916,2026-02-25,Vegas Golden Knights,Los Angeles Kings,6,4,Final
+20252026,20917,2026-02-25,Edmonton Oilers,Anaheim Ducks,5,6,Final
+20252026,20918,2026-02-26,Columbus Blue Jackets,Boston Bruins,2,4,Final
+20252026,20919,2026-02-26,New York Islanders,Montreal Canadiens,4,3,Final OT
+20252026,20920,2026-02-26,Detroit Red Wings,Ottawa Senators,2,1,Final OT
+20252026,20921,2026-02-26,Toronto Maple Leafs,Florida Panthers,1,5,Final
+20252026,20922,2026-02-26,New Jersey Devils,Pittsburgh Penguins,1,4,Final
+20252026,20923,2026-02-26,Tampa Bay Lightning,Carolina Hurricanes,4,5,Final
+20252026,20924,2026-02-26,Philadelphia Flyers,New York Rangers,3,2,Final OT
+20252026,20925,2026-02-26,Seattle Kraken,St Louis Blues,1,5,Final
+20252026,20926,2026-02-26,Chicago Blackhawks,Nashville Predators,2,4,Final
+20252026,20927,2026-02-26,Minnesota Wild,Colorado Avalanche,5,2,Final
+20252026,20928,2026-02-26,Calgary Flames,San Jose Sharks,4,1,Final
+20252026,20929,2026-02-26,Edmonton Oilers,Los Angeles Kings,8,1,Final
+20252026,20930,2026-02-27,Buffalo Sabres,Florida Panthers,3,2,Final
+20252026,20931,2026-02-27,Vegas Golden Knights,Washington Capitals,2,3,Final
+20252026,20932,2026-02-27,Minnesota Wild,Utah Mammoth,2,5,Final
+20252026,20933,2026-02-27,Winnipeg Jets,Anaheim Ducks,4,5,Final OT
+20252026,20934,2026-02-28,Pittsburgh Penguins,New York Rangers,2,3,Final SO
+20252026,20935,2026-02-28,Boston Bruins,Philadelphia Flyers,1,3,Final
+20252026,20936,2026-02-28,Edmonton Oilers,San Jose Sharks,4,5,Final
+20252026,20937,2026-02-28,New York Islanders,Columbus Blue Jackets,4,3,Final OT
+20252026,20938,2026-02-28,Chicago Blackhawks,Colorado Avalanche,1,3,Final
+20252026,20939,2026-02-28,Ottawa Senators,Toronto Maple Leafs,5,2,Final
+20252026,20940,2026-02-28,Washington Capitals,Montreal Canadiens,2,6,Final
+20252026,20941,2026-02-28,Buffalo Sabres,Tampa Bay Lightning,6,2,Final
+20252026,20942,2026-02-28,Detroit Red Wings,Carolina Hurricanes,2,5,Final
+20252026,20943,2026-02-28,New Jersey Devils,St Louis Blues,3,1,Final
+20252026,20944,2026-02-28,Calgary Flames,Los Angeles Kings,0,2,Final
+20252026,20945,2026-02-28,Nashville Predators,Dallas Stars,2,3,Final OT
+20252026,20946,2026-02-28,Vancouver Canucks,Seattle Kraken,1,5,Final
+20252026,20947,2026-03-01,Vegas Golden Knights,Pittsburgh Penguins,0,5,Final
+20252026,20948,2026-03-01,Florida Panthers,New York Islanders,4,5,Final
+20252026,20949,2026-03-01,Chicago Blackhawks,Utah Mammoth,4,0,Final
+20252026,20950,2026-03-01,Winnipeg Jets,San Jose Sharks,1,2,Final OT
+20252026,20951,2026-03-01,St Louis Blues,Minnesota Wild,3,1,Final
+20252026,20952,2026-03-01,Calgary Flames,Anaheim Ducks,2,3,Final SO
+20252026,20953,2026-03-02,Columbus Blue Jackets,New York Rangers,5,4,Final OT
+20252026,20954,2026-03-02,Philadelphia Flyers,Toronto Maple Leafs,3,2,Final SO
+20252026,20955,2026-03-02,Detroit Red Wings,Nashville Predators,4,2,Final
+20252026,20956,2026-03-02,Dallas Stars,Vancouver Canucks,6,1,Final
+20252026,20957,2026-03-02,Carolina Hurricanes,Seattle Kraken,1,2,Final
+20252026,20958,2026-03-02,Colorado Avalanche,Los Angeles Kings,4,2,Final
+20252026,20959,2026-03-03,Pittsburgh Penguins,Boston Bruins,1,2,Final
+20252026,20960,2026-03-03,Vegas Golden Knights,Buffalo Sabres,2,3,Final
+20252026,20961,2026-03-03,Florida Panthers,New Jersey Devils,1,5,Final
+20252026,20962,2026-03-03,Utah Mammoth,Washington Capitals,3,2,Final
+20252026,20963,2026-03-03,Nashville Predators,Columbus Blue Jackets,2,3,Final
+20252026,20964,2026-03-03,Chicago Blackhawks,Winnipeg Jets,2,3,Final OT
+20252026,20965,2026-03-03,Dallas Stars,Calgary Flames,6,1,Final
+20252026,20966,2026-03-03,Ottawa Senators,Edmonton Oilers,4,5,Final OT
+20252026,20967,2026-03-03,Tampa Bay Lightning,Minnesota Wild,1,5,Final
+20252026,20968,2026-03-03,Colorado Avalanche,Anaheim Ducks,5,1,Final
+20252026,20969,2026-03-03,Montreal Canadiens,San Jose Sharks,5,7,Final
+20252026,20970,2026-03-04,Vegas Golden Knights,Detroit Red Wings,4,3,Final OT
+20252026,20971,2026-03-04,Toronto Maple Leafs,New Jersey Devils,3,4,Final SO
+20252026,20972,2026-03-04,Carolina Hurricanes,Vancouver Canucks,6,4,Final
+20252026,20973,2026-03-04,New York Islanders,Anaheim Ducks,1,5,Final
+20252026,20974,2026-03-04,St Louis Blues,Seattle Kraken,3,2,Final
+20252026,20975,2026-03-05,Toronto Maple Leafs,New York Rangers,2,6,Final
+20252026,20976,2026-03-05,Utah Mammoth,Philadelphia Flyers,3,0,Final
+20252026,20977,2026-03-05,Buffalo Sabres,Pittsburgh Penguins,5,1,Final
+20252026,20978,2026-03-05,Florida Panthers,Columbus Blue Jackets,2,4,Final
+20252026,20979,2026-03-05,Boston Bruins,Nashville Predators,3,6,Final
+20252026,20980,2026-03-05,Tampa Bay Lightning,Winnipeg Jets,1,4,Final
+20252026,20981,2026-03-05,Ottawa Senators,Calgary Flames,4,1,Final
+20252026,20982,2026-03-05,New York Islanders,Los Angeles Kings,3,5,Final
+20252026,20983,2026-03-06,Florida Panthers,Detroit Red Wings,3,1,Final
+20252026,20984,2026-03-06,Colorado Avalanche,Dallas Stars,5,4,Final SO
+20252026,20985,2026-03-06,Vancouver Canucks,Chicago Blackhawks,6,3,Final
+20252026,20986,2026-03-06,Carolina Hurricanes,Edmonton Oilers,6,3,Final
+20252026,20987,2026-03-06,Montreal Canadiens,Anaheim Ducks,5,6,Final SO
+20252026,20988,2026-03-06,Minnesota Wild,Vegas Golden Knights,4,2,Final
+20252026,20989,2026-03-06,St Louis Blues,San Jose Sharks,3,2,Final OT
+20252026,20990,2026-03-07,Washington Capitals,Boston Bruins,1,3,Final
+20252026,20991,2026-03-07,New York Rangers,New Jersey Devils,3,6,Final
+20252026,20992,2026-03-07,Nashville Predators,Buffalo Sabres,2,3,Final
+20252026,20993,2026-03-07,Philadelphia Flyers,Pittsburgh Penguins,4,3,Final SO
+20252026,20994,2026-03-07,Tampa Bay Lightning,Toronto Maple Leafs,5,2,Final
+20252026,20995,2026-03-07,Utah Mammoth,Columbus Blue Jackets,5,4,Final OT
+20252026,20996,2026-03-07,Vancouver Canucks,Winnipeg Jets,2,3,Final OT
+20252026,20997,2026-03-07,Montreal Canadiens,Los Angeles Kings,4,3,Final
+20252026,20998,2026-03-07,Carolina Hurricanes,Calgary Flames,4,5,Final
+20252026,20999,2026-03-07,New York Islanders,San Jose Sharks,2,1,Final OT
+20252026,21000,2026-03-07,Ottawa Senators,Seattle Kraken,7,4,Final
+20252026,21001,2026-03-08,Minnesota Wild,Colorado Avalanche,2,3,Final SO
+20252026,21002,2026-03-08,Boston Bruins,Pittsburgh Penguins,4,5,Final OT
+20252026,21003,2026-03-08,Tampa Bay Lightning,Buffalo Sabres,7,8,Final
+20252026,21004,2026-03-08,Chicago Blackhawks,Dallas Stars,3,4,Final OT
+20252026,21005,2026-03-08,Detroit Red Wings,New Jersey Devils,3,0,Final
+20252026,21006,2026-03-08,St Louis Blues,Anaheim Ducks,4,0,Final
+20252026,21007,2026-03-08,Edmonton Oilers,Vegas Golden Knights,4,2,Final
+20252026,21008,2026-03-09,New York Rangers,Philadelphia Flyers,6,2,Final
+20252026,21009,2026-03-09,Calgary Flames,Washington Capitals,3,7,Final
+20252026,21010,2026-03-09,Utah Mammoth,Chicago Blackhawks,2,3,Final OT
+20252026,21011,2026-03-09,Ottawa Senators,Vancouver Canucks,2,0,Final
+20252026,21012,2026-03-10,Los Angeles Kings,Boston Bruins,1,2,Final OT
+20252026,21013,2026-03-10,San Jose Sharks,Buffalo Sabres,3,6,Final
+20252026,21014,2026-03-10,Toronto Maple Leafs,Montreal Canadiens,1,3,Final
+20252026,21015,2026-03-10,Columbus Blue Jackets,Tampa Bay Lightning,5,2,Final
+20252026,21016,2026-03-10,Detroit Red Wings,Florida Panthers,3,4,Final
+20252026,21017,2026-03-10,Calgary Flames,New York Rangers,0,4,Final
+20252026,21018,2026-03-10,Pittsburgh Penguins,Carolina Hurricanes,4,5,Final SO
+20252026,21019,2026-03-10,New York Islanders,St Louis Blues,4,3,Final OT
+20252026,21020,2026-03-10,Vegas Golden Knights,Dallas Stars,1,2,Final
+20252026,21021,2026-03-10,Utah Mammoth,Minnesota Wild,0,5,Final
+20252026,21022,2026-03-10,Anaheim Ducks,Winnipeg Jets,4,1,Final
+20252026,21023,2026-03-10,Edmonton Oilers,Colorado Avalanche,4,3,Final
+20252026,21024,2026-03-10,Nashville Predators,Seattle Kraken,4,2,Final
+20252026,21025,2026-03-11,Montreal Canadiens,Ottawa Senators,3,2,Final
+20252026,21026,2026-03-11,Washington Capitals,Philadelphia Flyers,1,4,Final
+20252026,21027,2026-03-12,San Jose Sharks,Boston Bruins,4,2,Final
+20252026,21028,2026-03-12,Washington Capitals,Buffalo Sabres,2,1,Final
+20252026,21029,2026-03-12,Anaheim Ducks,Toronto Maple Leafs,4,6,Final
+20252026,21030,2026-03-12,Detroit Red Wings,Tampa Bay Lightning,1,4,Final
+20252026,21031,2026-03-12,Columbus Blue Jackets,Florida Panthers,1,2,Final OT
+20252026,21032,2026-03-12,Calgary Flames,New Jersey Devils,5,4,Final
+20252026,21033,2026-03-12,St Louis Blues,Carolina Hurricanes,3,1,Final
+20252026,21034,2026-03-12,Edmonton Oilers,Dallas Stars,2,7,Final
+20252026,21035,2026-03-12,Philadelphia Flyers,Minnesota Wild,3,2,Final SO
+20252026,21036,2026-03-12,New York Rangers,Winnipeg Jets,6,3,Final
+20252026,21037,2026-03-12,Chicago Blackhawks,Utah Mammoth,3,2,Final OT
+20252026,21038,2026-03-12,Nashville Predators,Vancouver Canucks,3,4,Final SO
+20252026,21039,2026-03-12,Pittsburgh Penguins,Vegas Golden Knights,2,6,Final
+20252026,21040,2026-03-12,Colorado Avalanche,Seattle Kraken,5,1,Final
+20252026,21041,2026-03-13,Los Angeles Kings,New York Islanders,3,2,Final
+20252026,21042,2026-03-13,Edmonton Oilers,St Louis Blues,2,3,Final OT
+20252026,21043,2026-03-14,Anaheim Ducks,Ottawa Senators,0,2,Final
+20252026,21044,2026-03-14,Boston Bruins,Washington Capitals,3,2,Final SO
+20252026,21045,2026-03-14,Colorado Avalanche,Winnipeg Jets,1,3,Final
+20252026,21046,2026-03-14,New York Rangers,Minnesota Wild,4,2,Final
+20252026,21047,2026-03-14,Toronto Maple Leafs,Buffalo Sabres,2,3,Final SO
+20252026,21048,2026-03-14,San Jose Sharks,Montreal Canadiens,4,2,Final
+20252026,21049,2026-03-14,Carolina Hurricanes,Tampa Bay Lightning,4,2,Final
+20252026,21050,2026-03-14,Los Angeles Kings,New Jersey Devils,4,6,Final
+20252026,21051,2026-03-14,Calgary Flames,New York Islanders,2,3,Final
+20252026,21052,2026-03-14,Columbus Blue Jackets,Philadelphia Flyers,2,1,Final SO
+20252026,21053,2026-03-14,Detroit Red Wings,Dallas Stars,2,3,Final OT
+20252026,21054,2026-03-14,Pittsburgh Penguins,Utah Mammoth,4,3,Final
+20252026,21055,2026-03-14,Seattle Kraken,Vancouver Canucks,5,2,Final
+20252026,21056,2026-03-14,Chicago Blackhawks,Vegas Golden Knights,0,4,Final
+20252026,21057,2026-03-15,St Louis Blues,Winnipeg Jets,2,3,Final
+20252026,21058,2026-03-15,San Jose Sharks,Ottawa Senators,4,7,Final
+20252026,21059,2026-03-15,Anaheim Ducks,Montreal Canadiens,4,3,Final
+20252026,21060,2026-03-15,Toronto Maple Leafs,Minnesota Wild,4,2,Final
+20252026,21061,2026-03-15,Nashville Predators,Edmonton Oilers,1,3,Final
+20252026,21062,2026-03-15,Florida Panthers,Seattle Kraken,2,6,Final
+20252026,21063,2026-03-16,Calgary Flames,Detroit Red Wings,2,5,Final
+20252026,21064,2026-03-16,Boston Bruins,New Jersey Devils,3,4,Final OT
+20252026,21065,2026-03-16,Los Angeles Kings,New York Rangers,4,1,Final
+20252026,21066,2026-03-16,Utah Mammoth,Dallas Stars,6,3,Final
+20252026,21067,2026-03-16,Pittsburgh Penguins,Colorado Avalanche,7,2,Final
+20252026,21068,2026-03-17,New York Islanders,Toronto Maple Leafs,3,1,Final
+20252026,21069,2026-03-17,Boston Bruins,Montreal Canadiens,2,3,Final OT
+20252026,21070,2026-03-17,Carolina Hurricanes,Columbus Blue Jackets,1,5,Final
+20252026,21071,2026-03-17,Nashville Predators,Winnipeg Jets,4,3,Final SO
+20252026,21072,2026-03-17,Minnesota Wild,Chicago Blackhawks,4,3,Final OT
+20252026,21073,2026-03-17,San Jose Sharks,Edmonton Oilers,3,5,Final
+20252026,21074,2026-03-17,Florida Panthers,Vancouver Canucks,2,5,Final
+20252026,21075,2026-03-17,Buffalo Sabres,Vegas Golden Knights,2,0,Final
+20252026,21076,2026-03-17,Tampa Bay Lightning,Seattle Kraken,6,2,Final
+20252026,21077,2026-03-18,New Jersey Devils,New York Rangers,6,3,Final
+20252026,21078,2026-03-18,Pittsburgh Penguins,Carolina Hurricanes,5,6,Final OT
+20252026,21079,2026-03-18,Ottawa Senators,Washington Capitals,1,4,Final
+20252026,21080,2026-03-18,Dallas Stars,Colorado Avalanche,2,1,Final SO
+20252026,21081,2026-03-18,St Louis Blues,Calgary Flames,1,2,Final SO
+20252026,21082,2026-03-18,Philadelphia Flyers,Anaheim Ducks,3,2,Final OT
+20252026,21083,2026-03-19,Winnipeg Jets,Boston Bruins,1,6,Final
+20252026,21084,2026-03-19,New York Islanders,Ottawa Senators,2,3,Final
+20252026,21085,2026-03-19,Montreal Canadiens,Detroit Red Wings,1,3,Final
+20252026,21086,2026-03-19,New York Rangers,Columbus Blue Jackets,3,6,Final
+20252026,21087,2026-03-19,Seattle Kraken,Nashville Predators,1,3,Final
+20252026,21088,2026-03-19,Chicago Blackhawks,Minnesota Wild,2,1,Final
+20252026,21089,2026-03-19,Florida Panthers,Edmonton Oilers,4,0,Final
+20252026,21090,2026-03-19,Tampa Bay Lightning,Vancouver Canucks,6,2,Final
+20252026,21091,2026-03-19,Utah Mammoth,Vegas Golden Knights,4,0,Final
+20252026,21092,2026-03-19,Buffalo Sabres,San Jose Sharks,5,0,Final
+20252026,21093,2026-03-19,Philadelphia Flyers,Los Angeles Kings,4,3,Final SO
+20252026,21094,2026-03-20,Carolina Hurricanes,Toronto Maple Leafs,4,3,Final OT
+20252026,21095,2026-03-20,New Jersey Devils,Washington Capitals,1,2,Final
+20252026,21096,2026-03-20,Colorado Avalanche,Chicago Blackhawks,4,1,Final
+20252026,21097,2026-03-20,Florida Panthers,Calgary Flames,1,4,Final
+20252026,21098,2026-03-20,Anaheim Ducks,Utah Mammoth,4,1,Final
+20252026,21099,2026-03-21,Winnipeg Jets,Pittsburgh Penguins,4,5,Final SO
+20252026,21100,2026-03-21,Vegas Golden Knights,Nashville Predators,1,4,Final
+20252026,21101,2026-03-21,Dallas Stars,Minnesota Wild,1,2,Final OT
+20252026,21102,2026-03-21,Buffalo Sabres,Los Angeles Kings,4,1,Final
+20252026,21103,2026-03-21,Philadelphia Flyers,San Jose Sharks,4,1,Final
+20252026,21104,2026-03-21,Seattle Kraken,Columbus Blue Jackets,2,5,Final
+20252026,21105,2026-03-21,New York Islanders,Montreal Canadiens,3,7,Final
+20252026,21106,2026-03-21,Toronto Maple Leafs,Ottawa Senators,2,5,Final
+20252026,21107,2026-03-21,St Louis Blues,Vancouver Canucks,3,1,Final
+20252026,21108,2026-03-21,Boston Bruins,Detroit Red Wings,4,2,Final
+20252026,21109,2026-03-21,Tampa Bay Lightning,Edmonton Oilers,5,2,Final
+20252026,21110,2026-03-22,Winnipeg Jets,New York Rangers,3,2,Final SO
+20252026,21111,2026-03-22,Colorado Avalanche,Washington Capitals,3,2,Final OT
+20252026,21112,2026-03-22,Carolina Hurricanes,Pittsburgh Penguins,5,1,Final
+20252026,21113,2026-03-22,Nashville Predators,Chicago Blackhawks,3,2,Final OT
+20252026,21114,2026-03-22,Columbus Blue Jackets,New York Islanders,0,1,Final
+20252026,21115,2026-03-22,Vegas Golden Knights,Dallas Stars,3,2,Final
+20252026,21116,2026-03-22,Tampa Bay Lightning,Calgary Flames,3,4,Final OT
+20252026,21117,2026-03-22,Buffalo Sabres,Anaheim Ducks,5,6,Final OT
+20252026,21118,2026-03-22,Los Angeles Kings,Utah Mammoth,3,4,Final OT
+20252026,21119,2026-03-23,Ottawa Senators,New York Rangers,2,1,Final
+20252026,21120,2026-03-24,Toronto Maple Leafs,Boston Bruins,4,2,Final
+20252026,21121,2026-03-24,Carolina Hurricanes,Montreal Canadiens,2,5,Final
+20252026,21122,2026-03-24,Ottawa Senators,Detroit Red Wings,3,2,Final
+20252026,21123,2026-03-24,Seattle Kraken,Florida Panthers,4,5,Final SO
+20252026,21124,2026-03-24,Chicago Blackhawks,New York Islanders,4,3,Final
+20252026,21125,2026-03-24,Columbus Blue Jackets,Philadelphia Flyers,3,2,Final
+20252026,21126,2026-03-24,Colorado Avalanche,Pittsburgh Penguins,6,2,Final
+20252026,21127,2026-03-24,Minnesota Wild,Tampa Bay Lightning,3,6,Final
+20252026,21128,2026-03-24,Washington Capitals,St Louis Blues,0,3,Final
+20252026,21129,2026-03-24,San Jose Sharks,Nashville Predators,3,6,Final
+20252026,21130,2026-03-24,New Jersey Devils,Dallas Stars,6,4,Final
+20252026,21131,2026-03-24,Vegas Golden Knights,Winnipeg Jets,1,4,Final
+20252026,21132,2026-03-24,Edmonton Oilers,Utah Mammoth,5,2,Final
+20252026,21133,2026-03-24,Los Angeles Kings,Calgary Flames,2,3,Final SO
+20252026,21134,2026-03-24,Anaheim Ducks,Vancouver Canucks,5,3,Final
+20252026,21135,2026-03-25,Boston Bruins,Buffalo Sabres,4,3,Final OT
+20252026,21136,2026-03-25,New York Rangers,Toronto Maple Leafs,3,4,Final
+20252026,21137,2026-03-26,Columbus Blue Jackets,Montreal Canadiens,1,2,Final
+20252026,21138,2026-03-26,Pittsburgh Penguins,Ottawa Senators,4,3,Final SO
+20252026,21139,2026-03-26,Seattle Kraken,Tampa Bay Lightning,4,3,Final OT
+20252026,21140,2026-03-26,Minnesota Wild,Florida Panthers,3,2,Final
+20252026,21141,2026-03-26,Dallas Stars,New York Islanders,1,2,Final
+20252026,21142,2026-03-26,Chicago Blackhawks,Philadelphia Flyers,1,5,Final
+20252026,21143,2026-03-26,San Jose Sharks,St Louis Blues,1,2,Final OT
+20252026,21144,2026-03-26,New Jersey Devils,Nashville Predators,4,2,Final
+20252026,21145,2026-03-26,Colorado Avalanche,Winnipeg Jets,3,2,Final
+20252026,21146,2026-03-26,Washington Capitals,Utah Mammoth,7,4,Final
+20252026,21147,2026-03-26,Anaheim Ducks,Calgary Flames,3,2,Final OT
+20252026,21148,2026-03-26,Edmonton Oilers,Vegas Golden Knights,4,3,Final OT
+20252026,21149,2026-03-26,Los Angeles Kings,Vancouver Canucks,4,0,Final
+20252026,21150,2026-03-27,Detroit Red Wings,Buffalo Sabres,5,2,Final
+20252026,21151,2026-03-27,Chicago Blackhawks,New York Rangers,1,6,Final
+20252026,21152,2026-03-28,Ottawa Senators,Tampa Bay Lightning,2,4,Final
+20252026,21153,2026-03-28,Florida Panthers,New York Islanders,2,5,Final
+20252026,21154,2026-03-28,Anaheim Ducks,Edmonton Oilers,2,4,Final
+20252026,21155,2026-03-28,Minnesota Wild,Boston Bruins,3,6,Final
+20252026,21156,2026-03-28,Dallas Stars,Pittsburgh Penguins,6,3,Final
+20252026,21157,2026-03-28,New Jersey Devils,Carolina Hurricanes,2,5,Final
+20252026,21158,2026-03-28,San Jose Sharks,Columbus Blue Jackets,3,2,Final
+20252026,21159,2026-03-28,Seattle Kraken,Buffalo Sabres,2,3,Final SO
+20252026,21160,2026-03-28,Toronto Maple Leafs,St Louis Blues,1,5,Final
+20252026,21161,2026-03-28,Montreal Canadiens,Nashville Predators,4,1,Final
+20252026,21162,2026-03-28,Winnipeg Jets,Colorado Avalanche,4,2,Final
+20252026,21163,2026-03-28,Philadelphia Flyers,Detroit Red Wings,5,3,Final
+20252026,21164,2026-03-28,Utah Mammoth,Los Angeles Kings,6,2,Final
+20252026,21165,2026-03-28,Vancouver Canucks,Calgary Flames,3,7,Final
+20252026,21166,2026-03-28,Washington Capitals,Vegas Golden Knights,5,4,Final SO
+20252026,21167,2026-03-29,Florida Panthers,New York Rangers,1,3,Final
+20252026,21168,2026-03-29,Nashville Predators,Tampa Bay Lightning,2,3,Final
+20252026,21169,2026-03-29,Montreal Canadiens,Carolina Hurricanes,3,1,Final
+20252026,21170,2026-03-29,Boston Bruins,Columbus Blue Jackets,4,3,Final SO
+20252026,21171,2026-03-29,Chicago Blackhawks,New Jersey Devils,3,5,Final
+20252026,21172,2026-03-29,Dallas Stars,Philadelphia Flyers,1,2,Final OT
+20252026,21173,2026-03-30,Pittsburgh Penguins,New York Islanders,8,3,Final
+20252026,21174,2026-03-30,Calgary Flames,Colorado Avalanche,2,9,Final
+20252026,21175,2026-03-30,Vancouver Canucks,Vegas Golden Knights,2,4,Final
+20252026,21176,2026-03-30,Toronto Maple Leafs,Anaheim Ducks,5,4,Final OT
+20252026,21177,2026-03-30,St Louis Blues,San Jose Sharks,4,5,Final
+20252026,21178,2026-03-31,Dallas Stars,Boston Bruins,3,6,Final
+20252026,21179,2026-03-31,New York Islanders,Buffalo Sabres,3,4,Final
+20252026,21180,2026-03-31,Montreal Canadiens,Tampa Bay Lightning,4,1,Final
+20252026,21181,2026-03-31,Ottawa Senators,Florida Panthers,3,6,Final
+20252026,21182,2026-03-31,New Jersey Devils,New York Rangers,1,4,Final
+20252026,21183,2026-03-31,Detroit Red Wings,Pittsburgh Penguins,1,5,Final
+20252026,21184,2026-03-31,Philadelphia Flyers,Washington Capitals,4,6,Final
+20252026,21185,2026-03-31,Carolina Hurricanes,Columbus Blue Jackets,5,2,Final
+20252026,21186,2026-03-31,Winnipeg Jets,Chicago Blackhawks,4,3,Final OT
+20252026,21187,2026-03-31,Seattle Kraken,Edmonton Oilers,0,3,Final
+20252026,21188,2026-04-01,Vancouver Canucks,Colorado Avalanche,8,6,Final
+20252026,21189,2026-04-01,St Louis Blues,Los Angeles Kings,1,2,Final OT
+20252026,21190,2026-04-01,Anaheim Ducks,San Jose Sharks,3,4,Final
+20252026,21191,2026-04-02,Buffalo Sabres,Ottawa Senators,1,4,Final
+20252026,21192,2026-04-02,Pittsburgh Penguins,Tampa Bay Lightning,3,6,Final
+20252026,21193,2026-04-02,Boston Bruins,Florida Panthers,1,2,Final
+20252026,21194,2026-04-02,Washington Capitals,New Jersey Devils,3,7,Final
+20252026,21195,2026-04-02,Montreal Canadiens,New York Rangers,3,2,Final
+20252026,21196,2026-04-02,Detroit Red Wings,Philadelphia Flyers,4,2,Final
+20252026,21197,2026-04-02,Columbus Blue Jackets,Carolina Hurricanes,1,5,Final
+20252026,21198,2026-04-02,Winnipeg Jets,Dallas Stars,0,3,Final
+20252026,21199,2026-04-02,Vancouver Canucks,Minnesota Wild,2,5,Final
+20252026,21200,2026-04-02,Chicago Blackhawks,Edmonton Oilers,1,3,Final
+20252026,21201,2026-04-02,Calgary Flames,Vegas Golden Knights,3,6,Final
+20252026,21202,2026-04-02,Toronto Maple Leafs,San Jose Sharks,1,4,Final
+20252026,21203,2026-04-02,Utah Mammoth,Seattle Kraken,6,2,Final
+20252026,21204,2026-04-02,Nashville Predators,Los Angeles Kings,5,4,Final SO
+20252026,21205,2026-04-03,Philadelphia Flyers,New York Islanders,4,1,Final
+20252026,21206,2026-04-03,St Louis Blues,Anaheim Ducks,6,2,Final
+20252026,21207,2026-04-04,Detroit Red Wings,New York Rangers,1,4,Final
+20252026,21208,2026-04-04,Minnesota Wild,Ottawa Senators,4,1,Final
+20252026,21209,2026-04-04,Colorado Avalanche,Dallas Stars,2,0,Final
+20252026,21210,2026-04-04,Boston Bruins,Tampa Bay Lightning,1,3,Final
+20252026,21211,2026-04-04,Florida Panthers,Pittsburgh Penguins,4,9,Final
+20252026,21212,2026-04-04,Montreal Canadiens,New Jersey Devils,4,3,Final SO
+20252026,21213,2026-04-04,Buffalo Sabres,Washington Capitals,2,6,Final
+20252026,21214,2026-04-04,New York Islanders,Carolina Hurricanes,3,4,Final
+20252026,21215,2026-04-04,Winnipeg Jets,Columbus Blue Jackets,2,1,Final
+20252026,21216,2026-04-04,Utah Mammoth,Vancouver Canucks,7,4,Final
+20252026,21217,2026-04-04,Toronto Maple Leafs,Los Angeles Kings,6,7,Final OT
+20252026,21218,2026-04-04,Vegas Golden Knights,Edmonton Oilers,5,1,Final
+20252026,21219,2026-04-04,Calgary Flames,Anaheim Ducks,5,3,Final
+20252026,21220,2026-04-04,Nashville Predators,San Jose Sharks,6,3,Final
+20252026,21221,2026-04-04,Chicago Blackhawks,Seattle Kraken,4,2,Final
+20252026,21222,2026-04-05,Minnesota Wild,Detroit Red Wings,5,4,Final
+20252026,21223,2026-04-05,Florida Panthers,Pittsburgh Penguins,2,5,Final
+20252026,21224,2026-04-05,Boston Bruins,Philadelphia Flyers,1,2,Final OT
+20252026,21225,2026-04-05,Carolina Hurricanes,Ottawa Senators,3,6,Final
+20252026,21226,2026-04-05,New Jersey Devils,Montreal Canadiens,3,0,Final
+20252026,21227,2026-04-05,Washington Capitals,New York Rangers,1,8,Final
+20252026,21228,2026-04-05,St Louis Blues,Colorado Avalanche,3,2,Final
+20252026,21229,2026-04-06,Tampa Bay Lightning,Buffalo Sabres,2,4,Final
+20252026,21230,2026-04-06,Seattle Kraken,Winnipeg Jets,2,6,Final
+20252026,21231,2026-04-06,Chicago Blackhawks,San Jose Sharks,2,3,Final
+20252026,21232,2026-04-06,Nashville Predators,Los Angeles Kings,2,3,Final SO
+20252026,21233,2026-04-07,Florida Panthers,Montreal Canadiens,3,4,Final SO
+20252026,21234,2026-04-07,Tampa Bay Lightning,Ottawa Senators,2,6,Final
+20252026,21235,2026-04-07,Columbus Blue Jackets,Detroit Red Wings,4,3,Final SO
+20252026,21236,2026-04-07,Philadelphia Flyers,New Jersey Devils,5,1,Final
+20252026,21237,2026-04-07,Boston Bruins,Carolina Hurricanes,5,6,Final OT
+20252026,21238,2026-04-07,Colorado Avalanche,St Louis Blues,3,1,Final
+20252026,21239,2026-04-07,Calgary Flames,Dallas Stars,3,4,Final OT
+20252026,21240,2026-04-07,Seattle Kraken,Minnesota Wild,2,5,Final
+20252026,21241,2026-04-07,Edmonton Oilers,Utah Mammoth,5,6,Final OT
+20252026,21242,2026-04-07,Vegas Golden Knights,Vancouver Canucks,2,1,Final
+20252026,21243,2026-04-07,Nashville Predators,Anaheim Ducks,5,0,Final
+20252026,21244,2026-04-08,Buffalo Sabres,New York Rangers,5,3,Final
+20252026,21245,2026-04-08,Washington Capitals,Toronto Maple Leafs,4,0,Final
+20252026,21246,2026-04-08,Edmonton Oilers,San Jose Sharks,5,2,Final
+20252026,21247,2026-04-09,Columbus Blue Jackets,Buffalo Sabres,0,5,Final
+20252026,21248,2026-04-09,Tampa Bay Lightning,Montreal Canadiens,1,2,Final
+20252026,21249,2026-04-09,Florida Panthers,Ottawa Senators,1,5,Final
+20252026,21250,2026-04-09,Philadelphia Flyers,Detroit Red Wings,3,6,Final
+20252026,21251,2026-04-09,Pittsburgh Penguins,New Jersey Devils,5,2,Final
+20252026,21252,2026-04-09,Toronto Maple Leafs,New York Islanders,3,5,Final
+20252026,21253,2026-04-09,Winnipeg Jets,St Louis Blues,3,2,Final
+20252026,21254,2026-04-09,Minnesota Wild,Dallas Stars,4,5,Final
+20252026,21255,2026-04-09,Carolina Hurricanes,Chicago Blackhawks,7,2,Final
+20252026,21256,2026-04-09,Calgary Flames,Colorado Avalanche,1,3,Final
+20252026,21257,2026-04-09,Nashville Predators,Utah Mammoth,1,4,Final
+20252026,21258,2026-04-09,San Jose Sharks,Anaheim Ducks,1,6,Final
+20252026,21259,2026-04-09,Vegas Golden Knights,Seattle Kraken,3,4,Final SO
+20252026,21260,2026-04-09,Vancouver Canucks,Los Angeles Kings,1,4,Final
+20252026,21261,2026-04-11,Tampa Bay Lightning,Boston Bruins,2,1,Final
+20252026,21262,2026-04-11,Ottawa Senators,New York Islanders,3,0,Final
+20252026,21263,2026-04-11,Washington Capitals,Pittsburgh Penguins,6,3,Final
+20252026,21264,2026-04-11,Edmonton Oilers,Los Angeles Kings,0,1,Final
+20252026,21265,2026-04-11,New Jersey Devils,Detroit Red Wings,5,3,Final
+20252026,21266,2026-04-11,St Louis Blues,Chicago Blackhawks,5,3,Final
+20252026,21267,2026-04-11,Minnesota Wild,Nashville Predators,1,2,Final
+20252026,21268,2026-04-11,New York Rangers,Dallas Stars,0,2,Final
+20252026,21269,2026-04-11,Carolina Hurricanes,Utah Mammoth,4,1,Final
+20252026,21270,2026-04-11,Florida Panthers,Toronto Maple Leafs,6,2,Final
+20252026,21271,2026-04-11,Columbus Blue Jackets,Montreal Canadiens,5,2,Final
+20252026,21272,2026-04-11,Philadelphia Flyers,Winnipeg Jets,7,1,Final
+20252026,21273,2026-04-11,Calgary Flames,Seattle Kraken,1,4,Final
+20252026,21274,2026-04-11,Vegas Golden Knights,Colorado Avalanche,3,2,Final OT
+20252026,21275,2026-04-11,Vancouver Canucks,San Jose Sharks,4,3,Final SO
+20252026,21276,2026-04-12,Pittsburgh Penguins,Washington Capitals,0,3,Final
+20252026,21277,2026-04-12,Montreal Canadiens,New York Islanders,4,1,Final
+20252026,21278,2026-04-12,Boston Bruins,Columbus Blue Jackets,3,2,Final
+20252026,21279,2026-04-12,Ottawa Senators,New Jersey Devils,3,4,Final OT
+20252026,21280,2026-04-12,Vancouver Canucks,Anaheim Ducks,4,3,Final OT
+20252026,21281,2026-04-12,Utah Mammoth,Calgary Flames,1,4,Final
+20252026,21282,2026-04-13,Detroit Red Wings,Tampa Bay Lightning,3,4,Final OT
+20252026,21283,2026-04-13,New York Rangers,Florida Panthers,2,3,Final
+20252026,21284,2026-04-13,Carolina Hurricanes,Philadelphia Flyers,2,3,Final SO
+20252026,21285,2026-04-13,Dallas Stars,Toronto Maple Leafs,6,5,Final
+20252026,21286,2026-04-13,Minnesota Wild,St Louis Blues,3,6,Final
+20252026,21287,2026-04-13,San Jose Sharks,Nashville Predators,3,2,Final
+20252026,21288,2026-04-13,Buffalo Sabres,Chicago Blackhawks,5,1,Final
+20252026,21289,2026-04-13,Colorado Avalanche,Edmonton Oilers,2,1,Final SO
+20252026,21290,2026-04-13,Winnipeg Jets,Vegas Golden Knights,2,6,Final
+20252026,21291,2026-04-13,Los Angeles Kings,Seattle Kraken,5,3,Final
+20252026,21292,2026-04-14,New Jersey Devils,Boston Bruins,0,4,Final
+20252026,21293,2026-04-14,Carolina Hurricanes,New York Islanders,2,1,Final
+20252026,21294,2026-04-14,Montreal Canadiens,Philadelphia Flyers,2,4,Final
+20252026,21295,2026-04-14,Washington Capitals,Columbus Blue Jackets,2,1,Final
+20252026,21296,2026-04-14,Anaheim Ducks,Minnesota Wild,2,3,Final
+20252026,21297,2026-04-14,Winnipeg Jets,Utah Mammoth,3,5,Final
+20252026,21298,2026-04-14,Colorado Avalanche,Calgary Flames,3,1,Final
+20252026,21299,2026-04-14,Pittsburgh Penguins,St Louis Blues,5,7,Final
+20252026,21300,2026-04-14,Los Angeles Kings,Vancouver Canucks,3,4,Final OT
+20252026,21301,2026-04-15,Dallas Stars,Buffalo Sabres,4,3,Final SO
+20252026,21302,2026-04-15,New York Rangers,Tampa Bay Lightning,4,2,Final
+20252026,21303,2026-04-15,Detroit Red Wings,Florida Panthers,1,8,Final
+20252026,21304,2026-04-15,Toronto Maple Leafs,Ottawa Senators,1,3,Final
+20252026,21305,2026-04-15,San Jose Sharks,Chicago Blackhawks,2,5,Final
+20252026,21306,2026-04-15,Seattle Kraken,Vegas Golden Knights,1,4,Final
+20252026,21307,2026-04-16,Anaheim Ducks,Nashville Predators,5,4,Final
+20252026,21308,2026-04-16,San Jose Sharks,Winnipeg Jets,6,1,Final
+20252026,21309,2026-04-16,St Louis Blues,Utah Mammoth,5,3,Final
+20252026,21310,2026-04-16,Los Angeles Kings,Calgary Flames,1,3,Final
+20252026,21311,2026-04-16,Vancouver Canucks,Edmonton Oilers,1,6,Final
+20252026,21312,2026-04-16,Seattle Kraken,Colorado Avalanche,0,2,Final
+20262027,20001,2026-09-29,Florida Panthers,Carolina Hurricanes,1,0,Final OT
+20262027,20002,2026-09-29,Montreal Canadiens,Toronto Maple Leafs,3,2,Final
+20262027,20003,2026-09-29,New York Rangers,Boston Bruins,0,3,Final
+20262027,20004,2026-09-29,Vancouver Canucks,Edmonton Oilers,6,5,Final OT
+20262027,20005,2026-09-29,Chicago Blackhawks,Vegas Golden Knights,2,5,Final
+20262027,20006,2026-09-30,Pittsburgh Penguins,Philadelphia Flyers,7,0,Final
+20262027,20007,2026-09-30,Los Angeles Kings,Colorado Avalanche,4,8,Final
+20262027,20008,2026-09-30,New York Islanders,Toronto Maple Leafs,1,2,Final
+20262027,20009,2026-10-01,Philadelphia Flyers,New Jersey Devils,2,3,Final OT
+20262027,20010,2026-10-01,Tampa Bay Lightning,New York Rangers,1,5,Final
+20262027,20011,2026-10-01,Buffalo Sabres,Columbus Blue Jackets,3,6,Final
+20262027,20012,2026-10-01,Minnesota Wild,Nashville Predators,3,1,Final
+20262027,20013,2026-10-01,Chicago Blackhawks,Utah Mammoth,0,6,Final
+20262027,20014,2026-10-01,Seattle Kraken,Calgary Flames,6,1,Final
+20262027,20015,2026-10-01,Edmonton Oilers,Vancouver Canucks,9,7,Final
+20262027,20016,2026-10-01,Florida Panthers,San Jose Sharks,3,4,Final OT
+20262027,20017,2026-10-02,New York Rangers,Detroit Red Wings,2,0,Final
+20262027,20018,2026-10-02,Washington Capitals,Carolina Hurricanes,5,2,Final
+20262027,20019,2026-10-02,Boston Bruins,Winnipeg Jets,4,3,Final OT
+20262027,20020,2026-10-02,St Louis Blues,Dallas Stars,4,0,Final
+20262027,20021,2026-10-02,Anaheim Ducks,Vegas Golden Knights,4,3,Final
+20262027,20022,2026-10-03,Chicago Blackhawks,Buffalo Sabres,3,4,Final
+20262027,20023,2026-10-03,Ottawa Senators,Toronto Maple Leafs,3,2,Final
+20262027,20024,2026-10-03,Washington Capitals,Tampa Bay Lightning,1,3,Final
+20262027,20025,2026-10-03,Carolina Hurricanes,Philadelphia Flyers,3,2,Final OT
+20262027,20026,2026-10-03,Montreal Canadiens,Pittsburgh Penguins,5,6,Final OT
+20262027,20027,2026-10-03,Utah Mammoth,Columbus Blue Jackets,4,1,Final
+20262027,20028,2026-10-03,Seattle Kraken,Edmonton Oilers,1,3,Final
+20262027,20029,2026-10-03,New Jersey Devils,New York Islanders,0,6,Final
+20262027,20030,2026-10-03,Dallas Stars,Nashville Predators,1,2,Final
+20262027,20031,2026-10-03,Boston Bruins,Minnesota Wild,1,4,Final
+20262027,20032,2026-10-03,St Louis Blues,Colorado Avalanche,1,6,Final
+20262027,20033,2026-10-03,Calgary Flames,Vancouver Canucks,1,4,Final
+20262027,20034,2026-10-03,Los Angeles Kings,San Jose Sharks,4,5,Final OT
+20262027,20035,2026-10-04,Winnipeg Jets,Detroit Red Wings,3,2,Final
+20262027,20036,2026-10-04,Utah Mammoth,New York Rangers,2,4,Final
+20262027,20037,2026-10-04,Florida Panthers,Anaheim Ducks,2,3,Final OT
+20262027,20038,2026-10-04,Calgary Flames,Seattle Kraken,1,6,Final
+20262027,20039,2026-10-04,Vegas Golden Knights,Vancouver Canucks,3,2,Final
+20262027,20040,2026-10-05,Philadelphia Flyers,Tampa Bay Lightning,1,4,Final
+20262027,20041,2026-10-05,Ottawa Senators,Boston Bruins,4,1,Final
+20262027,20042,2026-10-05,Winnipeg Jets,Pittsburgh Penguins,3,2,Final
+20262027,20043,2026-10-05,San Jose Sharks,Dallas Stars,0,5,Final

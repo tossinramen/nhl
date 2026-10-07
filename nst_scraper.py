@@ -111,7 +111,7 @@ def simple_table(t):
     return pd.DataFrame(data, columns=header)
 
 
-# ---------- games list ----------
+
 
 def parse_games_list(html, sit):
     soup = BeautifulSoup(html, "lxml")
