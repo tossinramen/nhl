@@ -259,6 +259,40 @@ def scrape_games(client, games, limit):
         print(f"{len(failed)} games failed, see data/failed_games.txt")
 
 
+def widen_lists(lists):
+    """Per-situation games lists -> one row per team-game with {sit}_{stat} columns."""
+    keys = ["season", "game_id", "Team"]
+    wide = None
+    for sit, df in lists.items():
+        stats = df.drop(columns=["situation", "Game", "date", "Attendance"], errors="ignore")
+        stats = stats.rename(columns={c: f"{sit}_{c}" for c in stats.columns if c not in keys})
+        wide = stats if wide is None else wide.merge(stats, on=keys, how="outer")
+    base = lists.get("all", next(iter(lists.values())))[["season", "game_id", "Team", "Game", "date", "Attendance"]]
+    return base.merge(wide, on=keys, how="right").rename(columns={"Team": "team"})
+
+
+def fetch_history(client, first_year, last_year):
+    hist = CACHE / "hist"
+    hist.mkdir(parents=True, exist_ok=True)
+    frames = []
+    for year in range(first_year, last_year + 1):
+        season = f"{year}{year + 1}"
+        lists = {}
+        for sit in LIST_SITS:
+            p = hist / f"games_list_{season}_{sit}.pkl"
+            if not p.exists():
+                print(f"Fetching {season} games list sit={sit}")
+                path = (f"/games.php?fromseason={season}&thruseason={season}"
+                        f"&stype={STYPE}&sit={sit}&loc=B&team=All&rate=n")
+                parse_games_list(client.get(path), sit).to_pickle(p)
+            lists[sit] = pd.read_pickle(p)
+        frames.append(widen_lists(lists))
+        print(f"  {season}: {len(frames[-1])} team-game rows")
+    out = DATA / "team_games_hist.csv"
+    pd.concat(frames, ignore_index=True).sort_values(["season", "game_id", "team"]).to_csv(out, index=False)
+    print(f"wrote {out.relative_to(DATA.parent)}")
+
+
 def combine():
     lists = {s: pd.read_pickle(CACHE / f"games_list_{s}.pkl")
              for s in LIST_SITS if (CACHE / f"games_list_{s}.pkl").exists()}
@@ -270,14 +304,7 @@ def combine():
     tables = {n: pd.concat(d, ignore_index=True) for n, d in parts.items()}
 
     if lists:
-        keys = ["season", "game_id", "Team"]
-        wide = None
-        for sit, df in lists.items():
-            stats = df.drop(columns=["situation", "Game", "date", "Attendance"], errors="ignore")
-            stats = stats.rename(columns={c: f"{sit}_{c}" for c in stats.columns if c not in keys})
-            wide = stats if wide is None else wide.merge(stats, on=keys, how="outer")
-        base = lists.get("all", next(iter(lists.values())))[["season", "game_id", "Team", "Game", "date", "Attendance"]]
-        team_games = base.merge(wide, on=keys, how="right").rename(columns={"Team": "team"})
+        team_games = widen_lists(lists)
         if "games" in tables:
             g = tables["games"][["season", "game_id", "home_team", "away_team"]]
             team_games = team_games.merge(g, on=["season", "game_id"], how="left")
@@ -298,6 +325,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, default=0, help="max new games to scrape this run")
     ap.add_argument("--combine-only", action="store_true")
+    ap.add_argument("--history", nargs=2, type=int, metavar=("FIRST_YEAR", "LAST_YEAR"),
+                    help="only fetch team-level game lists for past seasons, e.g. --history 2018 2024")
     args = ap.parse_args()
 
     GAME_CACHE.mkdir(parents=True, exist_ok=True)
@@ -307,9 +336,11 @@ def main():
         if not key:
             sys.exit("NST_ACCESS_KEY missing from .env")
         client = NSTClient(key)
+        if args.history:
+            fetch_history(client, *args.history)
+            return
         lists = fetch_lists(client)
         ref = lists["all"]
-        # only completed days, so an in-progress game never gets cached as partial data
         today = datetime.now(ZoneInfo("America/New_York")).strftime("%Y-%m-%d")
         ref = ref[ref["date"] < today]
         games = sorted({(s, g) for s, g in zip(ref["season"], ref["game_id"])})
