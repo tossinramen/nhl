@@ -1,4 +1,3 @@
-"""Daily NHL schedule and results from the public NHL API (api-web.nhle.com, no key needed)."""
 import time
 from datetime import datetime
 from zoneinfo import ZoneInfo
@@ -6,26 +5,13 @@ from zoneinfo import ZoneInfo
 import pandas as pd
 import requests
 
+from teams import ABBR_TO_NST
+
 API = "https://api-web.nhle.com/v1"
 ET = ZoneInfo("America/New_York")
 
-ABBR_TO_NST = {
-    "ANA": "Anaheim Ducks", "BOS": "Boston Bruins", "BUF": "Buffalo Sabres",
-    "CGY": "Calgary Flames", "CAR": "Carolina Hurricanes", "CHI": "Chicago Blackhawks",
-    "COL": "Colorado Avalanche", "CBJ": "Columbus Blue Jackets", "DAL": "Dallas Stars",
-    "DET": "Detroit Red Wings", "EDM": "Edmonton Oilers", "FLA": "Florida Panthers",
-    "LAK": "Los Angeles Kings", "MIN": "Minnesota Wild", "MTL": "Montreal Canadiens",
-    "NSH": "Nashville Predators", "NJD": "New Jersey Devils", "NYI": "New York Islanders",
-    "NYR": "New York Rangers", "OTT": "Ottawa Senators", "PHI": "Philadelphia Flyers",
-    "PIT": "Pittsburgh Penguins", "SJS": "San Jose Sharks", "SEA": "Seattle Kraken",
-    "STL": "St Louis Blues", "TBL": "Tampa Bay Lightning", "TOR": "Toronto Maple Leafs",
-    "UTA": "Utah Mammoth", "VAN": "Vancouver Canucks", "VGK": "Vegas Golden Knights",
-    "WSH": "Washington Capitals", "WPG": "Winnipeg Jets",
-}
-
 
 def today_et():
-    """Today's date in Eastern time (the NHL's schedule day), as YYYY-MM-DD."""
     return datetime.now(ET).strftime("%Y-%m-%d")
 
 
@@ -49,10 +35,6 @@ def _team(t):
 
 
 def get_games(date=None, regular_season_only=True):
-    """All NHL games on `date` (YYYY-MM-DD, default today ET) with status and scores if played.
-
-    gameState: FUT/PRE = not started, LIVE/CRIT = in progress, OFF/FINAL = finished.
-    """
     date = date or today_et()
     data = _get(f"/schedule/{date}")
     day = next((d for d in data.get("gameWeek", []) if d["date"] == date), None)
