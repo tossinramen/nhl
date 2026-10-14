@@ -1400,3 +1400,19 @@ season,game_id,date,away_team,home_team,away_score,home_score,status
 20262027,20087,2026-10-12,Florida Panthers,Buffalo Sabres,3,5,Final
 20262027,20088,2026-10-12,Ottawa Senators,New Jersey Devils,4,1,Final
 20262027,20089,2026-10-12,Vegas Golden Knights,Minnesota Wild,2,4,Final
+20262027,20090,2026-10-13,New Jersey Devils,Detroit Red Wings,5,4,Final OT
+20262027,20091,2026-10-13,Florida Panthers,Columbus Blue Jackets,7,3,Final
+20262027,20092,2026-10-13,Buffalo Sabres,Montreal Canadiens,3,4,Final SO
+20262027,20093,2026-10-13,Washington Capitals,Carolina Hurricanes,2,4,Final
+20262027,20094,2026-10-13,Seattle Kraken,Philadelphia Flyers,3,2,Final SO
+20262027,20095,2026-10-13,Tampa Bay Lightning,New York Rangers,1,4,Final
+20262027,20096,2026-10-13,St Louis Blues,Ottawa Senators,7,2,Final
+20262027,20097,2026-10-13,Vancouver Canucks,New York Islanders,2,3,Final
+20262027,20098,2026-10-13,Pittsburgh Penguins,Chicago Blackhawks,3,5,Final
+20262027,20099,2026-10-13,Minnesota Wild,Winnipeg Jets,2,5,Final
+20262027,20100,2026-10-13,Colorado Avalanche,Dallas Stars,3,2,Final
+20262027,20101,2026-10-13,Vegas Golden Knights,Nashville Predators,5,2,Final
+20262027,20102,2026-10-13,Toronto Maple Leafs,Utah Mammoth,4,5,Final
+20262027,20103,2026-10-13,Calgary Flames,Anaheim Ducks,4,2,Final
+20262027,20104,2026-10-13,Edmonton Oilers,Los Angeles Kings,4,1,Final
+20262027,20105,2026-10-13,Boston Bruins,San Jose Sharks,6,3,Final
