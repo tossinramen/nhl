@@ -1418,3 +1418,14 @@ season,game_id,date,away_team,home_team,away_score,home_score,status
 20262027,20105,2026-10-13,Boston Bruins,San Jose Sharks,6,3,Final
 20262027,20106,2026-10-14,Montreal Canadiens,Washington Capitals,4,5,Final
 20262027,20107,2026-10-14,Dallas Stars,Colorado Avalanche,3,2,Final SO
+20262027,20108,2026-10-15,Buffalo Sabres,Toronto Maple Leafs,5,4,Final OT
+20262027,20109,2026-10-15,New York Islanders,Ottawa Senators,1,2,Final SO
+20262027,20110,2026-10-15,Philadelphia Flyers,Detroit Red Wings,1,2,Final
+20262027,20111,2026-10-15,Seattle Kraken,Tampa Bay Lightning,3,4,Final OT
+20262027,20112,2026-10-15,Vancouver Canucks,Florida Panthers,2,3,Final OT
+20262027,20113,2026-10-15,New York Rangers,New Jersey Devils,1,7,Final
+20262027,20114,2026-10-15,Winnipeg Jets,Chicago Blackhawks,3,4,Final OT
+20262027,20115,2026-10-15,San Jose Sharks,Nashville Predators,3,2,Final SO
+20262027,20116,2026-10-15,St Louis Blues,Minnesota Wild,4,5,Final
+20262027,20117,2026-10-15,Utah Mammoth,Edmonton Oilers,4,2,Final
+20262027,20118,2026-10-15,Calgary Flames,Vegas Golden Knights,2,6,Final
