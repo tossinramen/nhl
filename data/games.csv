@@ -1464,3 +1464,37 @@ season,game_id,date,away_team,home_team,away_score,home_score,status
 20262027,20151,2026-10-20,Tampa Bay Lightning,Vegas Golden Knights,6,2,Final
 20262027,20152,2026-10-21,Philadelphia Flyers,Buffalo Sabres,3,1,Final
 20262027,20153,2026-10-21,Florida Panthers,Ottawa Senators,1,5,Final
+20262027,20154,2026-10-22,Nashville Predators,Boston Bruins,0,6,Final
+20262027,20155,2026-10-22,New York Rangers,Toronto Maple Leafs,4,5,Final
+20262027,20156,2026-10-22,San Jose Sharks,Ottawa Senators,6,2,Final
+20262027,20157,2026-10-22,Anaheim Ducks,New Jersey Devils,1,4,Final
+20262027,20158,2026-10-22,Florida Panthers,Pittsburgh Penguins,0,4,Final
+20262027,20159,2026-10-22,Los Angeles Kings,New York Islanders,3,2,Final OT
+20262027,20160,2026-10-22,Vegas Golden Knights,St Louis Blues,2,6,Final
+20262027,20161,2026-10-22,Winnipeg Jets,Dallas Stars,2,3,Final OT
+20262027,20162,2026-10-22,Minnesota Wild,Calgary Flames,1,2,Final
+20262027,20163,2026-10-22,Carolina Hurricanes,Edmonton Oilers,5,6,Final SO
+20262027,20164,2026-10-22,Utah Mammoth,Seattle Kraken,3,5,Final
+20262027,20165,2026-10-22,Detroit Red Wings,Vancouver Canucks,5,2,Final
+20262027,20166,2026-10-23,Montreal Canadiens,Chicago Blackhawks,4,1,Final
+20262027,20167,2026-10-23,Tampa Bay Lightning,Colorado Avalanche,3,6,Final
+20262027,20168,2026-10-24,Anaheim Ducks,Philadelphia Flyers,5,4,Final
+20262027,20169,2026-10-24,Los Angeles Kings,New Jersey Devils,1,3,Final
+20262027,20170,2026-10-24,San Jose Sharks,Boston Bruins,4,6,Final
+20262027,20171,2026-10-24,New York Rangers,Ottawa Senators,4,7,Final
+20262027,20172,2026-10-24,Nashville Predators,Pittsburgh Penguins,2,3,Final OT
+20262027,20173,2026-10-24,Buffalo Sabres,Washington Capitals,3,4,Final OT
+20262027,20174,2026-10-24,Vegas Golden Knights,Columbus Blue Jackets,1,2,Final OT
+20262027,20175,2026-10-24,Carolina Hurricanes,St Louis Blues,4,0,Final
+20262027,20176,2026-10-24,Toronto Maple Leafs,Edmonton Oilers,7,2,Final
+20262027,20177,2026-10-24,Tampa Bay Lightning,Utah Mammoth,4,5,Final OT
+20262027,20178,2026-10-24,Detroit Red Wings,Calgary Flames,1,4,Final
+20262027,20179,2026-10-24,Minnesota Wild,Seattle Kraken,5,1,Final
+20262027,20180,2026-10-25,Florida Panthers,Chicago Blackhawks,3,2,Final
+20262027,20181,2026-10-25,New York Islanders,Dallas Stars,3,6,Final
+20262027,20182,2026-10-25,Montreal Canadiens,Winnipeg Jets,2,1,Final
+20262027,20183,2026-10-25,Colorado Avalanche,Nashville Predators,2,6,Final
+20262027,20184,2026-10-25,Minnesota Wild,Vancouver Canucks,4,2,Final
+20262027,20185,2026-10-26,Los Angeles Kings,New York Rangers,6,3,Final
+20262027,20186,2026-10-26,Toronto Maple Leafs,Calgary Flames,2,5,Final
+20262027,20187,2026-10-26,Detroit Red Wings,Edmonton Oilers,4,3,Final SO
